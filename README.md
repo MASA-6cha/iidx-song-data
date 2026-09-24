@@ -1,6 +1,7 @@
 # IIDX 曲・譜面データ
 
-`songs.json` は `iidx-info-exporter/songs/1` 形式の曲データです。
+メモアプリなどで利用できる、IIDXの曲情報・譜面情報・レーダー値をまとめたJSONデータです。
+`songs.json` のデータ形式は `iidx-info-exporter/songs/1` です。
 曲IDごとに1件にまとめ、`charts` に `SPB` / `SPN` / `SPH` / `SPA` / `SPL` / `DPB` / `DPN` / `DPH` / `DPA` / `DPL` のうち存在する譜面を格納します。
 
 ## メモアプリでの読み込み
@@ -27,29 +28,25 @@ URLから読み込む最小の実装は `load-songs.js` を参照してくださ
 | --- | --- | --- |
 | 曲 | `music_id`, `title`, `artist`, `genre` | 曲ID、曲名、アーティスト、ジャンル |
 | 譜面 | `chart_type`, `level` | 譜面種類、レベル |
-| 譜面 | `bpm.min`, `bpm.max` | 譜面中の実際のBPM範囲 |
-| 譜面 | `bpm_display.min`, `bpm_display.max`, `bpm_display.text` | ゲームに合わせて丸めた表示用BPM |
+| 譜面 | `bpm.min`, `bpm.max` | BPM範囲（小数を含む） |
+| 譜面 | `bpm_display.min`, `bpm_display.max`, `bpm_display.text` | 表示用BPM（整数に丸めた値） |
 | 譜面 | `note_count` | ノーツ数 |
 | 譜面 | `CN`, `HCN`, `BSS`, `MSS` | 各要素の有無（booleanまたはnull） |
 | 譜面 | `radar` | `NOTES`, `PEAK`, `SCRATCH`, `SOF-LAN`, `CHARGE`, `CHORD` |
-| 譜面 | `status`, `status_label` | 取得・計算状態 |
+| 譜面 | `status`, `status_label` | データの状態 |
 
-`null` は未取得・不明です。0やfalseに置き換えないでください。
-`status: "calculated"` は譜面からの独立計算、`"captured"` はゲームからの取得、`"unavailable"` は未取得です。
+`null` は未収録・不明です。0やfalseに置き換えないでください。
+`status: "calculated"` は算出済み、`"captured"` は取得済み、`"unavailable"` は未取得を表します。
 レーダーの各値はすでに表示用の数値（例：157.37）なので、100で割る必要はありません。
 `SOF-LAN` はハイフンを含むため、JavaScriptでは `chart.radar["SOF-LAN"]` で参照します。
 
 ## データと更新
 
-曲数・譜面数・状態別件数、データ生成日時、SHA-256は `manifest.json` に記録しています。
-元の出力からPC内のパス（`chart_sources`, `chart_source`）と診断文（`warnings`）を省き、空白を詰めています。曲・譜面の値は変更していません。
-曲名などのメタデータがnullの曲、取得できていない譜面も、状態を保持して含めています。
+曲数・譜面数・状態別件数、データ作成日時、SHA-256は `manifest.json` に記録しています。
+配信ファイルはUTF-8のJSONで、ファイルサイズを抑えるため余分な空白を省いています。
+曲名などの情報がnullの曲や、値が未収録の譜面も、状態を保持して含めています。
 
-複数のsoundフォルダの優先順位は出力元ですでに解決済みです。入力順で後のフォルダが曲ID単位で優先されます。
-レーダー計算は `quaver♪` SPA のゲーム表示6軸との一致を確認しています。全曲についてゲーム画面との一致を確認したデータではありません。
+一部の譜面でレーダー値の照合を行っていますが、全曲・全譜面の値を個別に照合したものではありません。
 
-更新時は元プロジェクトで次を実行し、このフォルダの `songs.json` と `manifest.json` を一緒に更新します。
-
-```powershell
-python iidx-info-exporter/prepare-github-data.py "新しい出力フォルダ/songs.json" iidx-github-data
-```
+データ更新時は `songs.json` と `manifest.json` を一緒に更新します。
+アプリ側では `manifest.json` の日時やSHA-256を使って更新の有無を確認できます。
