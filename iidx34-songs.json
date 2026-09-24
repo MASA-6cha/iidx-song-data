@@ -1,0 +1,6957 @@
+{
+  "schema": "iidx-song-supplement/1",
+  "created_utc": "2026-09-24T16:48:49.334Z",
+  "data_kind": "iidx34",
+  "target_version": 34,
+  "songs": [
+    {
+      "music_id": null,
+      "title": "Ex-Otogibanashi",
+      "artist": "ryo (supercell) / かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織) from 超かぐや姫!",
+      "genre": "アニメ",
+      "charts": {
+        "SPB": {
+          "chart_type": "SPB",
+          "level": 1,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 190,
+            "max": 190,
+            "text": "190"
+          },
+          "note_count": 87,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 3,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 190,
+            "max": 190,
+            "text": "190"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 190,
+            "max": 190,
+            "text": "190"
+          },
+          "note_count": 487,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 190,
+            "max": 190,
+            "text": "190"
+          },
+          "note_count": 800,
+          "radar": {
+            "NOTES": 71.36,
+            "PEAK": 80,
+            "SCRATCH": 20.79,
+            "SOF-LAN": 0,
+            "CHARGE": 33.59,
+            "CHORD": 45.4
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": true,
+          "HCN": false,
+          "BSS": true,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 3,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 190,
+            "max": 190,
+            "text": "190"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 190,
+            "max": 190,
+            "text": "190"
+          },
+          "note_count": 508,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 190,
+            "max": 190,
+            "text": "190"
+          },
+          "note_count": 800,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:2899",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "2899",
+        "textage_tag": "ex_otogi",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.931Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "メルト CPK! Remix (初音ミク ver.)",
+      "artist": "ryo (supercell)",
+      "genre": "アニメ／ボーカロイド／J-POP",
+      "charts": {
+        "SPB": {
+          "chart_type": "SPB",
+          "level": 2,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": 839,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": 1439,
+          "radar": {
+            "NOTES": 99.31,
+            "PEAK": 102.63,
+            "SCRATCH": 34.19,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 119.59
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": false,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": 839,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": 1439,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:2900",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "2900",
+        "textage_tag": "_meltcpk",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.932Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "9-1",
+      "artist": "めめめ",
+      "genre": "HARD DANCE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": 1013,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": 1679,
+          "radar": {
+            "NOTES": 132.21,
+            "PEAK": 167.85,
+            "SCRATCH": 70.56,
+            "SOF-LAN": 0,
+            "CHARGE": 13.59,
+            "CHORD": 120.62
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": true,
+          "HCN": false,
+          "BSS": true,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": 1612,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3401",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3401",
+        "textage_tag": "9_1",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.932Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "霹靂",
+      "artist": "Yuta Imai",
+      "genre": "EUPHORIC HARDSTYLE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": 642,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": 1118,
+          "radar": {
+            "NOTES": 90.21,
+            "PEAK": 91.42,
+            "SCRATCH": 51.14,
+            "SOF-LAN": 0,
+            "CHARGE": 153.99,
+            "CHORD": 66.34
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": null,
+          "HCN": true,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": 676,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": 1179,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3402",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3402",
+        "textage_tag": "_hekirek",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.932Z"
+      },
+      "manual_fields": [
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "BENiZAKURA",
+      "artist": "BlackY",
+      "genre": "ENERGETIC JAPANESQUE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": 1421,
+          "radar": {
+            "NOTES": 110.93,
+            "PEAK": 105.26,
+            "SCRATCH": 69.96,
+            "SOF-LAN": 0,
+            "CHARGE": 24.68,
+            "CHORD": 108.66
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": true,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3403",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3403",
+        "textage_tag": "benizakr",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.932Z"
+      },
+      "manual_fields": [
+        "charts.SPA.note_count",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Citroforte",
+      "artist": "REMO-CON",
+      "genre": "HYPERTRANCE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3404",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3404",
+        "textage_tag": "citrofrt",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "DEADRABBIT!!",
+      "artist": "Hylen feat.DJ14 (SCRATCHING)",
+      "genre": "DJENTLE ZAAGBREAKSTEP",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 132,
+            "max": 132,
+            "text": "132"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 132,
+            "max": 132,
+            "text": "132"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 132,
+            "max": 132,
+            "text": "132"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 132,
+            "max": 132,
+            "text": "132"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3405",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3405",
+        "textage_tag": "deadrabt",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Deathstalker",
+      "artist": "Zekk",
+      "genre": "BREAKCORE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 220,
+            "max": 220,
+            "text": "220"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 220,
+            "max": 220,
+            "text": "220"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 220,
+            "max": 220,
+            "text": "220"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 220,
+            "max": 220,
+            "text": "220"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3406",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3406",
+        "textage_tag": "dstalker",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Dying 4 U",
+      "artist": "EmoCosine",
+      "genre": "JERSEY FUTURE CORE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 179,
+            "max": 179,
+            "text": "179"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 179,
+            "max": 179,
+            "text": "179"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 179,
+            "max": 179,
+            "text": "179"
+          },
+          "note_count": 1351,
+          "radar": {
+            "NOTES": 110.97,
+            "PEAK": 97.14,
+            "SCRATCH": 111.13,
+            "SOF-LAN": 0,
+            "CHARGE": 36.87,
+            "CHORD": 111.49
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": true,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 179,
+            "max": 179,
+            "text": "179"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 179,
+            "max": 179,
+            "text": "179"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 179,
+            "max": 179,
+            "text": "179"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3407",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3407",
+        "textage_tag": "dying4u",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.note_count",
+        "charts.SPA.CN",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "GENERATED GRID",
+      "artist": "Sota Fujimori",
+      "genre": "TECH CORE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": 1523,
+          "radar": {
+            "NOTES": 118.34,
+            "PEAK": 114.47,
+            "SCRATCH": 36.23,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 112.46
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": false,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 175,
+            "max": 175,
+            "text": "175"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3408",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3408",
+        "textage_tag": "genegrid",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.note_count",
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Mellow Diary",
+      "artist": "YUC'e",
+      "genre": "IVORY BASS",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3409",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3409",
+        "textage_tag": "mlwdiary",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Memorylust",
+      "artist": "nora2r",
+      "genre": "HARDCORE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": 1453,
+          "radar": {
+            "NOTES": 119.03,
+            "PEAK": 115.78,
+            "SCRATCH": 54.91,
+            "SOF-LAN": 0,
+            "CHARGE": 139.1,
+            "CHORD": 108.25
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": true,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 185,
+            "max": 185,
+            "text": "185"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3410",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3410",
+        "textage_tag": "memolust",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "NOMAD (feat.らっぷぴと)",
+      "artist": "魂音泉",
+      "genre": "HIPHOP",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 115,
+            "max": 115,
+            "text": "115"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 115,
+            "max": 115,
+            "text": "115"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 115,
+            "max": 115,
+            "text": "115"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 115,
+            "max": 115,
+            "text": "115"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 115,
+            "max": 115,
+            "text": "115"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 115,
+            "max": 115,
+            "text": "115"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3411",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3411",
+        "textage_tag": "nomad",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "OTOROSHI",
+      "artist": "影虎。",
+      "genre": "ORIENTAL HARDPSY",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 160,
+            "max": 160,
+            "text": "160"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3412",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3412",
+        "textage_tag": "otoroshi",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "PISTOL SWORD",
+      "artist": "KARUT",
+      "genre": "HYBRID BREAKS",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 148,
+            "max": 148,
+            "text": "148"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 148,
+            "max": 148,
+            "text": "148"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 148,
+            "max": 148,
+            "text": "148"
+          },
+          "note_count": 1425,
+          "radar": {
+            "NOTES": 114.86,
+            "PEAK": 98.57,
+            "SCRATCH": 111.27,
+            "SOF-LAN": 0,
+            "CHARGE": 23.43,
+            "CHORD": 108.27
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": true,
+          "HCN": false,
+          "BSS": true,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 148,
+            "max": 148,
+            "text": "148"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 148,
+            "max": 148,
+            "text": "148"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 148,
+            "max": 148,
+            "text": "148"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3413",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3413",
+        "textage_tag": "pistolsw",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Rise Beyond",
+      "artist": "Taishi",
+      "genre": "TRANCE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 145,
+            "max": 145,
+            "text": "145"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 145,
+            "max": 145,
+            "text": "145"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 145,
+            "max": 145,
+            "text": "145"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 145,
+            "max": 145,
+            "text": "145"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 145,
+            "max": 145,
+            "text": "145"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 145,
+            "max": 145,
+            "text": "145"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3414",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3414",
+        "textage_tag": "risebynd",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Samurai Sword",
+      "artist": "Dubscribe",
+      "genre": "DUBSTEP",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3415",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3415",
+        "textage_tag": "samsword",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Shogun's Last Dawn ft. Kanae Asaba",
+      "artist": "Xceon",
+      "genre": "HYPER ENKA POP",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 156,
+            "max": 156,
+            "text": "156"
+          },
+          "note_count": 1420,
+          "radar": {
+            "NOTES": 111.71,
+            "PEAK": 97.14,
+            "SCRATCH": 33.24,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 102.49
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": false,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3416",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3416",
+        "textage_tag": "shogunld",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.note_count",
+        "charts.SPA.bpm",
+        "charts.SPA.bpm_display",
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Singularity Girl",
+      "artist": "HuΣeR",
+      "genre": "STYLISH FUTURE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": 1332,
+          "radar": {
+            "NOTES": 111.38,
+            "PEAK": 107.89,
+            "SCRATCH": 84.68,
+            "SOF-LAN": 0,
+            "CHARGE": 74.65,
+            "CHORD": 87.95
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": true,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3417",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3417",
+        "textage_tag": "snglgirl",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "Spark Rush",
+      "artist": "Nhato",
+      "genre": "TECH TRANCE",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 155,
+            "max": 155,
+            "text": "155"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 155,
+            "max": 155,
+            "text": "155"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 155,
+            "max": 155,
+            "text": "155"
+          },
+          "note_count": 1451,
+          "radar": {
+            "NOTES": 116.29,
+            "PEAK": 100,
+            "SCRATCH": 77.66,
+            "SOF-LAN": 0,
+            "CHARGE": 0.93,
+            "CHORD": 103.43
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": false,
+          "HCN": false,
+          "BSS": true,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 155,
+            "max": 155,
+            "text": "155"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 155,
+            "max": 155,
+            "text": "155"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 155,
+            "max": 155,
+            "text": "155"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3418",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3418",
+        "textage_tag": "sparkrsh",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.HCN",
+        "charts.SPA.CN",
+        "charts.SPA.note_count",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "TEKNO KEISER",
+      "artist": "STEVIE(Trymatic)/Nana Takahashi Prod. by L.E.D.",
+      "genre": "DEATH TEKNO",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 168,
+            "max": 168,
+            "text": "168"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 168,
+            "max": 168,
+            "text": "168"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 168,
+            "max": 168,
+            "text": "168"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 168,
+            "max": 168,
+            "text": "168"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3419",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3419",
+        "textage_tag": "tenkoksr",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "ΛИ0MΛLY",
+      "artist": "Yvya",
+      "genre": "PROGRESSIVE METAL",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 150,
+            "max": 150,
+            "text": "150"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3420",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3420",
+        "textage_tag": "_anomaly",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "悪ジ狂キ",
+      "artist": "RoughSkreamZ feat. Fra",
+      "genre": "DJENT/UK INDUSTRIAL/RAP",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 113,
+            "max": 113,
+            "text": "113"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 113,
+            "max": 113,
+            "text": "113"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 113,
+            "max": 113,
+            "text": "113"
+          },
+          "note_count": 1346,
+          "radar": {
+            "NOTES": 108.17,
+            "PEAK": 94.28,
+            "SCRATCH": 121.59,
+            "SOF-LAN": 0,
+            "CHARGE": 17.81,
+            "CHORD": 105.61
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": true,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 113,
+            "max": 113,
+            "text": "113"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 113,
+            "max": 113,
+            "text": "113"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 113,
+            "max": 113,
+            "text": "113"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3421",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3421",
+        "textage_tag": "_akujikk",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "泡沫と月",
+      "artist": "xi feat. Risa Yuzuki",
+      "genre": "JAPANESE PIANO ROCK",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 174,
+            "max": 174,
+            "text": "174"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3422",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3422",
+        "textage_tag": "_utatuki",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "映夢雪花抄",
+      "artist": "めと (Metomate)",
+      "genre": "EPHEMERAL ROCK",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 164,
+            "max": 164,
+            "text": "164"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 164,
+            "max": 164,
+            "text": "164"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 164,
+            "max": 164,
+            "text": "164"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 164,
+            "max": 164,
+            "text": "164"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 164,
+            "max": 164,
+            "text": "164"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 164,
+            "max": 164,
+            "text": "164"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3423",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3423",
+        "textage_tag": "_eimuyuk",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "月下散刃",
+      "artist": "U1 overground",
+      "genre": "ORBITALIC MOON REQUIEM",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3424",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3424",
+        "textage_tag": "_gekkasj",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "斎戒",
+      "artist": "satella",
+      "genre": "ORIENTAL",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 172,
+            "max": 172,
+            "text": "172"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3425",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3425",
+        "textage_tag": "_saikai",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "ダダダダダル",
+      "artist": "雨良 Amala feat.初音ミク、重音テト",
+      "genre": "エレクトロ",
+      "charts": {
+        "SPB": {
+          "chart_type": "SPB",
+          "level": 1,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 124,
+            "max": 124,
+            "text": "124"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 3,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 124,
+            "max": 124,
+            "text": "124"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 124,
+            "max": 124,
+            "text": "124"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 124,
+            "max": 124,
+            "text": "124"
+          },
+          "note_count": 908,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 3,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 124,
+            "max": 124,
+            "text": "124"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 124,
+            "max": 124,
+            "text": "124"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 124,
+            "max": 124,
+            "text": "124"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3426",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3426",
+        "textage_tag": "_dddddru",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "九十九ノ恋結ビ",
+      "artist": "irucaice feat. あやぽんず＊(森羅万象)",
+      "genre": "和風歌謡電子恋歌",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 163,
+            "max": 163,
+            "text": "163"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 163,
+            "max": 163,
+            "text": "163"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 163,
+            "max": 163,
+            "text": "163"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": 114.31,
+            "PEAK": 95.71,
+            "SCRATCH": 71.19,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 118.63
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": false,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 163,
+            "max": 163,
+            "text": "163"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 163,
+            "max": 163,
+            "text": "163"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 163,
+            "max": 163,
+            "text": "163"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3427",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3427",
+        "textage_tag": "_tsukumo",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "でぃすこみゅーたんと！",
+      "artist": "ナユタン星人",
+      "genre": "ボカロ",
+      "charts": {
+        "SPB": {
+          "chart_type": "SPB",
+          "level": 1,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3428",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3428",
+        "textage_tag": "_dmutant",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "デラむぅのでらっくす☆かるた ～NOTES・CHORD・PEAK編～",
+      "artist": "デラむぅとのらつーあーる",
+      "genre": "ぽっぷむぅ～じっく",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 140,
+            "max": 140,
+            "text": "140"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 140,
+            "max": 140,
+            "text": "140"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 140,
+            "max": 140,
+            "text": "140"
+          },
+          "note_count": 1130,
+          "radar": {
+            "NOTES": 97.96,
+            "PEAK": 101.31,
+            "SCRATCH": 16.42,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 100.14
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": false,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 140,
+            "max": 140,
+            "text": "140"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 140,
+            "max": 140,
+            "text": "140"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 140,
+            "max": 140,
+            "text": "140"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3429",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3429",
+        "textage_tag": "_derakrt",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "倍倍FIGHT!",
+      "artist": "Remixed by L.E.D.-G feat.佐伯伊織",
+      "genre": "IIDX EDITION",
+      "charts": {
+        "SPB": {
+          "chart_type": "SPB",
+          "level": 1,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": 1084,
+          "radar": {
+            "NOTES": 97.41,
+            "PEAK": 78.57,
+            "SCRATCH": 28.8,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 106.68
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": false,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 176,
+            "max": 176,
+            "text": "176"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3430",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3430",
+        "textage_tag": "_bbfight",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.933Z"
+      },
+      "manual_fields": [
+        "charts.SPA.note_count",
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "フランケンシュタインの怪物",
+      "artist": "HIMEHINA",
+      "genre": "J-POP",
+      "charts": {
+        "SPB": {
+          "chart_type": "SPB",
+          "level": 1,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": null,
+            "max": null,
+            "text": null
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3431",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3431",
+        "textage_tag": "_franken",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.934Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "雷霆の如し",
+      "artist": "dj TAKA",
+      "genre": "TECH SPEED",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 162,
+            "max": 162,
+            "text": "162"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 162,
+            "max": 162,
+            "text": "162"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 162,
+            "max": 162,
+            "text": "162"
+          },
+          "note_count": 1547,
+          "radar": {
+            "NOTES": 124.84,
+            "PEAK": 101.31,
+            "SCRATCH": 42.33,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 85.16
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": false,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 162,
+            "max": 162,
+            "text": "162"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 162,
+            "max": 162,
+            "text": "162"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 162,
+            "max": 162,
+            "text": "162"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3432",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3432",
+        "textage_tag": "_raitei",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.934Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "ラブパラ",
+      "artist": "DECO*27",
+      "genre": "J-POP・VOCALOID",
+      "charts": {
+        "SPB": {
+          "chart_type": "SPB",
+          "level": 1,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 158,
+            "max": 158,
+            "text": "158"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 158,
+            "max": 158,
+            "text": "158"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 158,
+            "max": 158,
+            "text": "158"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 158,
+            "max": 158,
+            "text": "158"
+          },
+          "note_count": 775,
+          "radar": {
+            "NOTES": 63.01,
+            "PEAK": 50,
+            "SCRATCH": 21.32,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 35.75
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": false,
+          "HCN": false,
+          "BSS": false,
+          "MSS": false
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 4,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 158,
+            "max": 158,
+            "text": "158"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 8,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 158,
+            "max": 158,
+            "text": "158"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 158,
+            "max": 158,
+            "text": "158"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3433",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3433",
+        "textage_tag": "_lovpara",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.934Z"
+      },
+      "manual_fields": [
+        "charts.SPA.note_count",
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "夜叉ノ魂",
+      "artist": "劇団レコード feat.T4K",
+      "genre": "BATTLE SWORD",
+      "charts": {
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 170,
+            "max": 170,
+            "text": "170"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 170,
+            "max": 170,
+            "text": "170"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 170,
+            "max": 170,
+            "text": "170"
+          },
+          "note_count": 1356,
+          "radar": {
+            "NOTES": 113.45,
+            "PEAK": 101.31,
+            "SCRATCH": 50.59,
+            "SOF-LAN": 0,
+            "CHARGE": 42.96,
+            "CHORD": 124.82
+          },
+          "status": "manual",
+          "status_label": "手入力",
+          "CN": true,
+          "HCN": false,
+          "BSS": false,
+          "MSS": true
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 6,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 170,
+            "max": 170,
+            "text": "170"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 9,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 170,
+            "max": 170,
+            "text": "170"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 11,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 170,
+            "max": 170,
+            "text": "170"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3434",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3434",
+        "textage_tag": "_yashano",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.934Z"
+      },
+      "manual_fields": [
+        "charts.SPA.CN",
+        "charts.SPA.HCN",
+        "charts.SPA.BSS",
+        "charts.SPA.MSS",
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD"
+      ],
+      "excluded_charts": []
+    },
+    {
+      "music_id": null,
+      "title": "ギミギミエンターテイメント",
+      "artist": "hololive IDOL PROJECT",
+      "genre": "J-POP",
+      "charts": {
+        "SPB": {
+          "chart_type": "SPB",
+          "level": 3,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 138,
+            "max": 200,
+            "text": "138-200"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPN": {
+          "chart_type": "SPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 138,
+            "max": 200,
+            "text": "138-200"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPH": {
+          "chart_type": "SPH",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 138,
+            "max": 200,
+            "text": "138-200"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "SPA": {
+          "chart_type": "SPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 138,
+            "max": 200,
+            "text": "138-200"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPN": {
+          "chart_type": "DPN",
+          "level": 5,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 138,
+            "max": 200,
+            "text": "138-200"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPH": {
+          "chart_type": "DPH",
+          "level": 7,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 138,
+            "max": 200,
+            "text": "138-200"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        },
+        "DPA": {
+          "chart_type": "DPA",
+          "level": 10,
+          "bpm": {
+            "min": null,
+            "max": null
+          },
+          "bpm_display": {
+            "min": 138,
+            "max": 200,
+            "text": "138-200"
+          },
+          "note_count": null,
+          "radar": {
+            "NOTES": null,
+            "PEAK": null,
+            "SCRATCH": null,
+            "SOF-LAN": null,
+            "CHARGE": null,
+            "CHORD": null
+          },
+          "status": "external",
+          "status_label": "外部リスト",
+          "CN": null,
+          "HCN": null,
+          "BSS": null,
+          "MSS": null
+        }
+      },
+      "song_key": "iidx-data-table:3435",
+      "record_kind": "new_song",
+      "version": 34,
+      "source": {
+        "provider": "iidx-data-table",
+        "id": "3435",
+        "textage_tag": "_gimentr",
+        "url": "https://chinimuruhi.github.io/IIDX-Data-Table/",
+        "fetched_utc": "2026-09-24T15:14:12.934Z"
+      },
+      "manual_fields": [],
+      "excluded_charts": []
+    }
+  ]
+}
