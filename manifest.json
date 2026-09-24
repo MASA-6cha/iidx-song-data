@@ -1,0 +1,20 @@
+{
+  "schema": "iidx-info-exporter/manifest/1",
+  "data_file": "songs.json",
+  "data_schema": "iidx-info-exporter/songs/1",
+  "data_created_utc": "2026-09-23T18:09:28.538957Z",
+  "sha256": "6c69dc73ab6c3c802b876a3fa18e59d6f313fea8f399f893ba2b067aa229dd17",
+  "bytes": 5532520,
+  "song_count": 2629,
+  "chart_count": 16273,
+  "chart_status_counts": {
+    "calculated": 16255,
+    "unavailable": 18
+  },
+  "songs_without_title": 7,
+  "omitted_fields": [
+    "chart_sources",
+    "songs[].charts.*.chart_source",
+    "songs[].charts.*.warnings"
+  ]
+}
