@@ -1,6 +1,6 @@
 {
   "schema": "iidx-song-supplement/1",
-  "created_utc": "2026-09-24T17:52:02.370Z",
+  "created_utc": "2026-09-27T14:33:54.747Z",
   "data_kind": "iidx34",
   "target_version": 34,
   "songs": [
@@ -476,15 +476,15 @@
           },
           "note_count": 839,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 57.9,
+            "PEAK": 55.71,
+            "SCRATCH": 10.55,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 50.07
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -793,7 +793,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -845,15 +851,15 @@
           },
           "note_count": 1013,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 79.77,
+            "PEAK": 70,
+            "SCRATCH": 45.32,
+            "SOF-LAN": 0,
+            "CHARGE": 4.68,
+            "CHORD": 49.36
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -1158,7 +1164,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -1210,15 +1222,15 @@
           },
           "note_count": 642,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 54.8,
+            "PEAK": 70,
+            "SCRATCH": 31.74,
+            "SOF-LAN": 0,
+            "CHARGE": 64.53,
+            "CHORD": 26.81
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": true,
           "BSS": false,
@@ -1522,7 +1534,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -1574,15 +1592,15 @@
           },
           "note_count": 928,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 72.44,
+            "PEAK": 74.28,
+            "SCRATCH": 29.57,
+            "SOF-LAN": 0,
+            "CHARGE": 27.71,
+            "CHORD": 44.43
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -1888,7 +1906,13 @@
         "charts.SPA.CN",
         "charts.SPA.HCN",
         "charts.SPA.BSS",
-        "charts.SPA.MSS"
+        "charts.SPA.MSS",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -1940,15 +1964,15 @@
           },
           "note_count": 1022,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 83.02,
+            "PEAK": 72.85,
+            "SCRATCH": 20.12,
+            "SOF-LAN": 0,
+            "CHARGE": 105.7,
+            "CHORD": 37.96
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": true,
@@ -2242,7 +2266,14 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -2293,15 +2324,15 @@
           },
           "note_count": 1042,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 87.67,
+            "PEAK": 72.85,
+            "SCRATCH": 171.62,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 53.24
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -2595,7 +2626,14 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -2646,15 +2684,15 @@
           },
           "note_count": 1033,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 85.95,
+            "PEAK": 78.57,
+            "SCRATCH": 38.8,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 43.87
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -2948,7 +2986,14 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -2999,15 +3044,15 @@
           },
           "note_count": 904,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 74.25,
+            "PEAK": 68.57,
+            "SCRATCH": 62.23,
+            "SOF-LAN": 0,
+            "CHARGE": 30.31,
+            "CHORD": 46.87
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -3313,7 +3358,13 @@
         "charts.SPA.radar.CHORD",
         "charts.SPA.HCN",
         "charts.SPA.BSS",
-        "charts.SPA.MSS"
+        "charts.SPA.MSS",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -3365,15 +3416,15 @@
           },
           "note_count": 989,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 76.84,
+            "PEAK": 67.14,
+            "SCRATCH": 22.07,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 39.87
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -3681,7 +3732,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -3733,15 +3790,15 @@
           },
           "note_count": 702,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 62,
+            "PEAK": 68.57,
+            "SCRATCH": 14.8,
+            "SOF-LAN": 0,
+            "CHARGE": 84.92,
+            "CHORD": 43.03
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -3761,15 +3818,15 @@
           },
           "note_count": 1062,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 93.79,
+            "PEAK": 85.71,
+            "SCRATCH": 18.01,
+            "SOF-LAN": 0,
+            "CHARGE": 157.99,
+            "CHORD": 97.01
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -4039,7 +4096,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -4090,15 +4160,15 @@
           },
           "note_count": 901,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 73.81,
+            "PEAK": 80,
+            "SCRATCH": 42.37,
+            "SOF-LAN": 0,
+            "CHARGE": 53.43,
+            "CHORD": 44.27
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -4403,7 +4473,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -4455,15 +4531,15 @@
           },
           "note_count": 849,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 66.47,
+            "PEAK": 58.57,
+            "SCRATCH": 61.03,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 46.96
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -4483,15 +4559,15 @@
           },
           "note_count": 1076,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 84.24,
+            "PEAK": 71.42,
+            "SCRATCH": 73.58,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 69.48
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -4765,7 +4841,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -4816,15 +4905,15 @@
           },
           "note_count": 938,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 76.63,
+            "PEAK": 23.89,
+            "SCRATCH": 32.14,
+            "SOF-LAN": 0,
+            "CHARGE": 10.31,
+            "CHORD": 23.89
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": true,
@@ -5116,7 +5205,14 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -5167,15 +5263,15 @@
           },
           "note_count": 852,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 68.67,
+            "PEAK": 62.85,
+            "SCRATCH": 81.04,
+            "SOF-LAN": 0,
+            "CHARGE": 12.18,
+            "CHORD": 28.09
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -5478,7 +5574,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -5530,15 +5632,15 @@
           },
           "note_count": 793,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 60.6,
+            "PEAK": 57.14,
+            "SCRATCH": 12.8,
+            "SOF-LAN": 0,
+            "CHARGE": 57.9,
+            "CHORD": 18.85
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -5558,15 +5660,15 @@
           },
           "note_count": 1111,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 84.91,
+            "PEAK": 80,
+            "SCRATCH": 17.26,
+            "SOF-LAN": 0,
+            "CHARGE": 89.37,
+            "CHORD": 69.97
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -5836,7 +5938,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -5887,15 +6002,15 @@
           },
           "note_count": 805,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 65.33,
+            "PEAK": 64.28,
+            "SCRATCH": 20.51,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 32.08
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -5915,15 +6030,15 @@
           },
           "note_count": 1023,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 84.7,
+            "PEAK": 88.57,
+            "SCRATCH": 21.71,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 61.31
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -6197,7 +6312,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -6248,15 +6376,15 @@
           },
           "note_count": 955,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 75.13,
+            "PEAK": 68.57,
+            "SCRATCH": 31.52,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 53.71
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -6571,7 +6699,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -6623,15 +6757,15 @@
           },
           "note_count": 855,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 71.49,
+            "PEAK": 58.57,
+            "SCRATCH": 57.87,
+            "SOF-LAN": 0,
+            "CHARGE": 27.5,
+            "CHORD": 39.75
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -6938,7 +7072,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -6990,15 +7130,15 @@
           },
           "note_count": 913,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 73.17,
+            "PEAK": 62.85,
+            "SCRATCH": 46.13,
+            "SOF-LAN": 0,
+            "CHARGE": 0.46,
+            "CHORD": 30.71
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -7306,7 +7446,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -7358,15 +7504,15 @@
           },
           "note_count": 1008,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 79.51,
+            "PEAK": 78.57,
+            "SCRATCH": 65.51,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 61.14
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -7660,7 +7806,14 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -7711,15 +7864,15 @@
           },
           "note_count": 1145,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 94.8,
+            "PEAK": 78.57,
+            "SCRATCH": 12.06,
+            "SOF-LAN": 0,
+            "CHARGE": 12.81,
+            "CHORD": 54.66
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -8009,7 +8162,14 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -8060,15 +8220,15 @@
           },
           "note_count": 919,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 73.85,
+            "PEAK": 70,
+            "SCRATCH": 94.26,
+            "SOF-LAN": 0,
+            "CHARGE": 29.06,
+            "CHORD": 57.21
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -8373,7 +8533,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -8425,15 +8591,15 @@
           },
           "note_count": 831,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 64.28,
+            "PEAK": 58.57,
+            "SCRATCH": 23.1,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 35.98
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -8453,15 +8619,15 @@
           },
           "note_count": 1299,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 100.49,
+            "PEAK": 97.14,
+            "SCRATCH": 44.52,
+            "SOF-LAN": 0,
+            "CHARGE": 9.06,
+            "CHORD": 86.28
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -8735,7 +8901,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -8786,15 +8965,15 @@
           },
           "note_count": 781,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 64,
+            "PEAK": 61.42,
+            "SCRATCH": 15.99,
+            "SOF-LAN": 0,
+            "CHARGE": 1.87,
+            "CHORD": 53.95
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -8814,15 +8993,15 @@
           },
           "note_count": 1180,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 99.64,
+            "PEAK": 94.28,
+            "SCRATCH": 33.22,
+            "SOF-LAN": 0,
+            "CHARGE": 3.75,
+            "CHORD": 101.52
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -9094,7 +9273,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -9145,15 +9337,15 @@
           },
           "note_count": 923,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 73.12,
+            "PEAK": 75.71,
+            "SCRATCH": 34.05,
+            "SOF-LAN": 0,
+            "CHARGE": 7.34,
+            "CHORD": 34.16
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -9449,7 +9641,14 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -9500,15 +9699,15 @@
           },
           "note_count": 1014,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 82.84,
+            "PEAK": 84.28,
+            "SCRATCH": 27.38,
+            "SOF-LAN": 0,
+            "CHARGE": 102.1,
+            "CHORD": 67.91
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -9802,7 +10001,14 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -9881,15 +10087,15 @@
           },
           "note_count": 570,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 43.7,
+            "PEAK": 42.85,
+            "SCRATCH": 65.91,
+            "SOF-LAN": 0,
+            "CHARGE": 0.93,
+            "CHORD": 19
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -9909,15 +10115,15 @@
           },
           "note_count": 908,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 69.62,
+            "PEAK": 65.71,
+            "SCRATCH": 86.02,
+            "SOF-LAN": 0,
+            "CHARGE": 14.68,
+            "CHORD": 58.44
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": true,
@@ -10195,7 +10401,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -10246,15 +10465,15 @@
           },
           "note_count": 990,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 85.6,
+            "PEAK": 70,
+            "SCRATCH": 63.63,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 79.55
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -10562,7 +10781,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -10642,15 +10867,15 @@
           },
           "note_count": 780,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 71.04,
+            "PEAK": 54.28,
+            "SCRATCH": 37.82,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 43.96
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -10670,15 +10895,15 @@
           },
           "note_count": 1142,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 104.01,
+            "PEAK": 84.28,
+            "SCRATCH": 59.05,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 104.18
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -10957,7 +11182,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -11008,15 +11246,15 @@
           },
           "note_count": 863,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 74.81,
+            "PEAK": 72.85,
+            "SCRATCH": 12,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 53.92
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -11323,7 +11561,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -11403,15 +11647,15 @@
           },
           "note_count": 624,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 56.07,
+            "PEAK": 52.85,
+            "SCRATCH": 22.91,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 38.7
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -11724,7 +11968,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -11804,15 +12054,15 @@
           },
           "note_count": 564,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 58.56,
+            "PEAK": 54.28,
+            "SCRATCH": 19.66,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 28.62
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -11832,15 +12082,15 @@
           },
           "note_count": 883,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 91.68,
+            "PEAK": 84.28,
+            "SCRATCH": 42.36,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 88.24
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -12126,7 +12376,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     },
     {
@@ -12177,15 +12440,15 @@
           },
           "note_count": 903,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 72.87,
+            "PEAK": 62.85,
+            "SCRATCH": 31.16,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 28.51
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -12492,7 +12755,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -12572,15 +12841,15 @@
           },
           "note_count": 775,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 63.01,
+            "PEAK": 50,
+            "SCRATCH": 21.32,
+            "SOF-LAN": 0,
+            "CHARGE": 0,
+            "CHORD": 35.75
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -12600,12 +12869,12 @@
           },
           "note_count": 775,
           "radar": {
-            "NOTES": 63.01,
-            "PEAK": 50,
-            "SCRATCH": 21.32,
+            "NOTES": 96.51,
+            "PEAK": 80,
+            "SCRATCH": 36.73,
             "SOF-LAN": 0,
             "CHARGE": 0,
-            "CHORD": 35.75
+            "CHORD": 86.35
           },
           "status": "manual",
           "status_label": "手入力",
@@ -12893,7 +13162,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -12945,15 +13220,15 @@
           },
           "note_count": 966,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 83.33,
+            "PEAK": 74.28,
+            "SCRATCH": 39.01,
+            "SOF-LAN": 0,
+            "CHARGE": 26.87,
+            "CHORD": 80.03
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": true,
           "HCN": false,
           "BSS": false,
@@ -13257,7 +13532,13 @@
         "charts.SPA.radar.SCRATCH",
         "charts.SPA.radar.SOF-LAN",
         "charts.SPA.radar.CHARGE",
-        "charts.SPA.radar.CHORD"
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
       ],
       "excluded_charts": []
     },
@@ -13337,15 +13618,15 @@
           },
           "note_count": 902,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 57.48,
+            "PEAK": 55.71,
+            "SCRATCH": 23.21,
+            "SOF-LAN": 43.03,
+            "CHARGE": 0,
+            "CHORD": 30.26
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -13365,15 +13646,15 @@
           },
           "note_count": 1553,
           "radar": {
-            "NOTES": null,
-            "PEAK": null,
-            "SCRATCH": null,
-            "SOF-LAN": null,
-            "CHARGE": null,
-            "CHORD": null
+            "NOTES": 98.96,
+            "PEAK": 91.42,
+            "SCRATCH": 46.89,
+            "SOF-LAN": 57.87,
+            "CHARGE": 2.81,
+            "CHORD": 121.24
           },
-          "status": "external_temporary",
-          "status_label": "一時データを含む",
+          "status": "manual",
+          "status_label": "手入力",
           "CN": false,
           "HCN": false,
           "BSS": false,
@@ -13652,7 +13933,20 @@
           ]
         }
       ],
-      "manual_fields": [],
+      "manual_fields": [
+        "charts.SPA.radar.NOTES",
+        "charts.SPA.radar.PEAK",
+        "charts.SPA.radar.SCRATCH",
+        "charts.SPA.radar.SOF-LAN",
+        "charts.SPA.radar.CHARGE",
+        "charts.SPA.radar.CHORD",
+        "charts.SPH.radar.NOTES",
+        "charts.SPH.radar.PEAK",
+        "charts.SPH.radar.SCRATCH",
+        "charts.SPH.radar.SOF-LAN",
+        "charts.SPH.radar.CHARGE",
+        "charts.SPH.radar.CHORD"
+      ],
       "excluded_charts": []
     }
   ]
