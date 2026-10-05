@@ -1,0 +1,4356 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "BEMANIWiki 2nd",
+    "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
+    "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
+  },
+  "updated_at": "2026-10-05T23:34:27+00:00",
+  "song_count": 43,
+  "songs": [
+    {
+      "title": "9-1",
+      "artist": "めめめ",
+      "genre": "HARD DANCE",
+      "bpm": "160",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:04",
+      "duration_seconds": 124,
+      "movie": "専用:はるお?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 7,
+            "notes": 755,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 7",
+            "raw_notes": "755"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 1013,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 9",
+            "raw_notes": "1013"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1679,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 11",
+            "raw_notes": "1679"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 7,
+            "notes": 700,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 7",
+            "raw_notes": "700"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1046,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "1046"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1612,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 11",
+            "raw_notes": "1612"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "BENiZAKURA",
+      "artist": "BlackY",
+      "genre": "ENERGETIC JAPANESQUE",
+      "bpm": "172",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:06",
+      "duration_seconds": 126,
+      "movie": "専用:ヒロサキ",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 525,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "525"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 928,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 9",
+            "raw_notes": "928"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1405,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1405"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 527,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "527"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 926,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "926"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1384,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1384"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Citroforte",
+      "artist": "REMO-CON",
+      "genre": "HYPERTRANCE",
+      "bpm": "175",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:01",
+      "duration_seconds": 121,
+      "movie": "EPOLIS TRANSPORT汎用",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 538,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 6",
+            "raw_notes": "538"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1022,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 10",
+            "raw_notes": "1022"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": null,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 12",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 546,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 6",
+            "raw_notes": "546"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1046,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 10",
+            "raw_notes": "1046"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": null,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 12",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "DEADRABBIT!!",
+      "artist": "Hylen feat.DJ14 (SCRATCHING)",
+      "genre": "DJENTLE ZAAGBREAKSTEP",
+      "bpm": "132",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:57",
+      "duration_seconds": 117,
+      "movie": "専用:Ray?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 535,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": "535"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1042,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1042"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1602,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": "1602"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 558,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": "558"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1096,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1096"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1602,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": "1602"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Deathstalker",
+      "artist": "Zekk",
+      "genre": "BREAKCORE",
+      "bpm": "220",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:57",
+      "duration_seconds": 117,
+      "movie": "専用:Ray?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 636,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": "636"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1033,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1033"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": null,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 641,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": "641"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1041,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1041"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": null,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Dying 4 U",
+      "artist": "EmoCosine",
+      "genre": "JERSEY FUTURE CORE",
+      "bpm": "179",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:00",
+      "duration_seconds": 120,
+      "movie": "専用:maysea?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 521,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "521"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 904,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 9",
+            "raw_notes": "904"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1351,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1351"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 521,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "521"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 895,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "895"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1320,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1320"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Ex-Otogibanashi",
+      "artist": "ryo (supercell) / かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織) from 超かぐや姫！",
+      "genre": "アニメ",
+      "bpm": "190",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:49",
+      "duration_seconds": 109,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": true,
+            "level": 1,
+            "notes": 87,
+            "flags": [],
+            "raw_level": "1",
+            "raw_notes": "87"
+          },
+          "N": {
+            "exists": true,
+            "level": 3,
+            "notes": 234,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 3",
+            "raw_notes": "234"
+          },
+          "H": {
+            "exists": true,
+            "level": 6,
+            "notes": 487,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "487"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 800,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 10",
+            "raw_notes": "800"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 3,
+            "notes": 226,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 3",
+            "raw_notes": "226"
+          },
+          "H": {
+            "exists": true,
+            "level": 6,
+            "notes": 508,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 6",
+            "raw_notes": "508"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 800,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 10",
+            "raw_notes": "800"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Fly Above -20th Anniversary Mix-",
+      "artist": "Sota Fujimori",
+      "genre": "DREAM TRANCE",
+      "bpm": "150",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "後日登場予定",
+      "release_date": null,
+      "availability": "planned",
+      "time": null,
+      "duration_seconds": null,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": null,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "GENERATED GRID",
+      "artist": "Sota Fujimori",
+      "genre": "TECH CORE",
+      "bpm": "175",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:06",
+      "duration_seconds": 126,
+      "movie": "専用:Taiyo Yamamoto?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 563,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "563"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 989,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "989"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1523,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1523"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 562,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "562"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 989,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "989"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1454,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1454"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "History of dj TAKA - single style collection -",
+      "artist": "dj TAKA",
+      "genre": "dj TAKA",
+      "bpm": "160",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/10/01配信",
+      "release_date": "2026-10-01",
+      "availability": "listed",
+      "time": "2:18",
+      "duration_seconds": 138,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 7,
+            "notes": 790,
+            "flags": [],
+            "raw_level": "7",
+            "raw_notes": "790"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1381,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1381"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1906,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": "1906"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 7,
+            "notes": 783,
+            "flags": [],
+            "raw_level": "7",
+            "raw_notes": "783"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1385,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1385"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1806,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": "1806"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "I'm so Happy (20th Anniv.Mix)",
+      "artist": "Ryu☆",
+      "genre": "HAPPY HARDCORE",
+      "bpm": null,
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "後日登場予定",
+      "release_date": null,
+      "availability": "planned",
+      "time": null,
+      "duration_seconds": null,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": null,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Mellow Diary",
+      "artist": "YUC'e",
+      "genre": "IVORY BASS",
+      "bpm": "160",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:51",
+      "duration_seconds": 111,
+      "movie": "専用:NAGI?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 375,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "375"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 702,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 8",
+            "raw_notes": "702"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1062,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "1062"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 375,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 5",
+            "raw_notes": "375"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 713,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 8",
+            "raw_notes": "713"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1024,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "1024"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Memorylust",
+      "artist": "nora2r",
+      "genre": "HARDCORE",
+      "bpm": "185",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:58",
+      "duration_seconds": 118,
+      "movie": "RESIDENT CYBER汎用",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 569,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "569"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 901,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 9",
+            "raw_notes": "901"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1453,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1453"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 535,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "535"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 911,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "911"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1381,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1381"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "NOMAD (feat. らっぷびと)",
+      "artist": "魂音泉",
+      "genre": "HIPHOP",
+      "bpm": "115",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:02",
+      "duration_seconds": 122,
+      "movie": "専用:壱?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 412,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "412"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 849,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "849"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1076,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1076"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 464,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "464"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 887,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "887"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1152,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1152"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "OTOROSHI",
+      "artist": "影虎。",
+      "genre": "ORIENTAL HARDPSY",
+      "bpm": "160",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:00",
+      "duration_seconds": 120,
+      "movie": "専用:Minako Endo?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 499,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 5",
+            "raw_notes": "499"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 938,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 9",
+            "raw_notes": "938"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1686,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 12",
+            "raw_notes": "1686"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 523,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 5",
+            "raw_notes": "523"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 946,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 9",
+            "raw_notes": "946"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1508,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 12",
+            "raw_notes": "1508"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "PISTOL SWORD",
+      "artist": "KARUT",
+      "genre": "HYBRID BREAKS",
+      "bpm": "148",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:01",
+      "duration_seconds": 121,
+      "movie": "専用:壱?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 545,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "545"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 852,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 9",
+            "raw_notes": "852"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1425,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 11",
+            "raw_notes": "1425"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 541,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 6",
+            "raw_notes": "541"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 846,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "846"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1336,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1336"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Rise Beyond",
+      "artist": "Taishi",
+      "genre": "TRANCE",
+      "bpm": "145",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:08",
+      "duration_seconds": 128,
+      "movie": "専用:KING?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 456,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "456"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 793,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 8",
+            "raw_notes": "793"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1111,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "1111"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 456,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 5",
+            "raw_notes": "456"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 829,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 8",
+            "raw_notes": "829"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1162,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 10",
+            "raw_notes": "1162"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Samurai Sword",
+      "artist": "Dubscribe",
+      "genre": "DUBSTEP",
+      "bpm": "150",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:58",
+      "duration_seconds": 118,
+      "movie": "専用:maysea?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 409,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "409"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 805,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "805"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1023,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1023"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 409,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "409"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 778,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "778"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1019,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1019"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Shogun's Last Dawn ft. Kanae Asaba",
+      "artist": "Xceon",
+      "genre": "HYPER ENKA POP",
+      "bpm": "156",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:05",
+      "duration_seconds": 125,
+      "movie": "ZINRAI JAPANESQUE汎用",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 533,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "533"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 955,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "955"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1420,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1420"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 523,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "523"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 933,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "933"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1412,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1412"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Singularity Girl",
+      "artist": "HuΣeR",
+      "genre": "STYLISH FUTURE",
+      "bpm": "174",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:57",
+      "duration_seconds": 117,
+      "movie": "専用:NAGI?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 516,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "516"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 855,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 9",
+            "raw_notes": "855"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1332,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1332"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 519,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "519"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 868,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 9",
+            "raw_notes": "868"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1401,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1401"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Spark Rush",
+      "artist": "Nhato",
+      "genre": "TECH TRANCE",
+      "bpm": "155",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:02",
+      "duration_seconds": 122,
+      "movie": "専用:Routes?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 502,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "502"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 913,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "913"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1451,
+            "flags": [
+              "BSS"
+            ],
+            "raw_level": "[BSS] 11",
+            "raw_notes": "1451"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 501,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "501"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 907,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "907"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1264,
+            "flags": [
+              "BSS"
+            ],
+            "raw_level": "[BSS] 11",
+            "raw_notes": "1264"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "TEKNO KEISER",
+      "artist": "STEVIE(Trymatic)/Nana Takahashi Prod. by L.E.D.",
+      "genre": "DEATH TEKNO",
+      "bpm": "168",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:04",
+      "duration_seconds": 124,
+      "movie": "専用:ちっひ?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 607,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": "607"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1008,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1008"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 2010,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": "2010"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 668,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": "668"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1194,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1194"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 2009,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": "2009"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "gigadelic (WILD STYLE)",
+      "artist": "teranoid",
+      "genre": "NUSTYLE GABBA",
+      "bpm": null,
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "後日登場予定",
+      "release_date": null,
+      "availability": "planned",
+      "time": null,
+      "duration_seconds": null,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": null,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "moffing 猫叉Master meets β2 黒パカミックス",
+      "artist": "猫叉Master",
+      "genre": "クロモフロック",
+      "bpm": "170",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/10/01配信",
+      "release_date": "2026-10-01",
+      "availability": "listed",
+      "time": "2:09",
+      "duration_seconds": 129,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 527,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "527"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 788,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 8",
+            "raw_notes": "788"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1243,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1243"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 507,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 5",
+            "raw_notes": "507"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 801,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 8",
+            "raw_notes": "801"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1385,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 11",
+            "raw_notes": "1385"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "ΛИ0MΛLY",
+      "artist": "Yvya",
+      "genre": "PROGRESSIVE METAL",
+      "bpm": "150",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:58",
+      "duration_seconds": 118,
+      "movie": "専用:Hamamori Hiro?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 658,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "658"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1145,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "1145"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1868,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 12",
+            "raw_notes": "1868"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 657,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 6",
+            "raw_notes": "657"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1193,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 10",
+            "raw_notes": "1193"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1940,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 12",
+            "raw_notes": "1940"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "でぃすこみゅーたんと！",
+      "artist": "ナユタン星人",
+      "genre": "ボカロ",
+      "bpm": "176",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:55",
+      "duration_seconds": 115,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": true,
+            "level": 1,
+            "notes": 129,
+            "flags": [],
+            "raw_level": "1",
+            "raw_notes": "129"
+          },
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 392,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "392"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 780,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "780"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1142,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1142"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 410,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "410"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 785,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "785"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1140,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1140"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "ギミギミエンターテイメント",
+      "artist": "hololive IDOL PROJECT",
+      "genre": "J-POP",
+      "bpm": "138-200",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/20配信",
+      "release_date": "2026-09-20",
+      "availability": "listed",
+      "time": "2:30",
+      "duration_seconds": 150,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": true,
+            "level": 3,
+            "notes": 263,
+            "flags": [],
+            "raw_level": "3",
+            "raw_notes": "263"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 514,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "514"
+          },
+          "H": {
+            "exists": true,
+            "level": 7,
+            "notes": 902,
+            "flags": [],
+            "raw_level": "7",
+            "raw_notes": "902"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1553,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1553"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 507,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "507"
+          },
+          "H": {
+            "exists": true,
+            "level": 7,
+            "notes": 894,
+            "flags": [],
+            "raw_level": "7",
+            "raw_notes": "894"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1457,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1457"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "ダダダダダル",
+      "artist": "雨良 Amala",
+      "genre": "エレクトロ",
+      "bpm": "124",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:07",
+      "duration_seconds": 127,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": true,
+            "level": 1,
+            "notes": 118,
+            "flags": [],
+            "raw_level": "1",
+            "raw_notes": "118"
+          },
+          "N": {
+            "exists": true,
+            "level": 3,
+            "notes": 244,
+            "flags": [],
+            "raw_level": "3",
+            "raw_notes": "244"
+          },
+          "H": {
+            "exists": true,
+            "level": 6,
+            "notes": 570,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "570"
+          },
+          "A": {
+            "exists": true,
+            "level": 9,
+            "notes": 908,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 9",
+            "raw_notes": "908"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 3,
+            "notes": 247,
+            "flags": [],
+            "raw_level": "3",
+            "raw_notes": "247"
+          },
+          "H": {
+            "exists": true,
+            "level": 6,
+            "notes": 544,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "544"
+          },
+          "A": {
+            "exists": true,
+            "level": 9,
+            "notes": 879,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 9",
+            "raw_notes": "879"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "デラむぅのでらっくす☆かるた ～NOTES・CHORD・PEAK編～",
+      "artist": "デラむぅとのらつーあーる",
+      "genre": "ぽっぷむぅ～じっく",
+      "bpm": "140",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:53",
+      "duration_seconds": 113,
+      "movie": "専用:はるお?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 456,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "456"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 863,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "863"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1130,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1130"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 485,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "485"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 900,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "900"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1192,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1192"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "フランケンシュタインの怪物",
+      "artist": "HIMEHINA",
+      "genre": "J-POP",
+      "bpm": "190",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:33",
+      "duration_seconds": 93,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": true,
+            "level": 1,
+            "notes": 113,
+            "flags": [],
+            "raw_level": "1",
+            "raw_notes": "113"
+          },
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 357,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "357"
+          },
+          "H": {
+            "exists": true,
+            "level": 7,
+            "notes": 564,
+            "flags": [],
+            "raw_level": "7",
+            "raw_notes": "564"
+          },
+          "A": {
+            "exists": true,
+            "level": 9,
+            "notes": 883,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "883"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 418,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "418"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 686,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "686"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 995,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "995"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "メルト CPK! Remix (初音ミク ver.)",
+      "artist": "ryo (supercell)",
+      "genre": "アニメ/ボーカロイド/J-POP",
+      "bpm": "185",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:17",
+      "duration_seconds": 137,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": true,
+            "level": 2,
+            "notes": 239,
+            "flags": [],
+            "raw_level": "2",
+            "raw_notes": "239"
+          },
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 439,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "439"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 839,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "839"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1439,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1439"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 439,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "439"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 839,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "839"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1439,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1439"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "ラブパラ",
+      "artist": "DECO*27",
+      "genre": "J-POP・VOCALOID",
+      "bpm": "158",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:01",
+      "duration_seconds": 121,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": true,
+            "level": 1,
+            "notes": 152,
+            "flags": [],
+            "raw_level": "1",
+            "raw_notes": "152"
+          },
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 439,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "439"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 775,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "775"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1187,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1187"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 437,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "437"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 777,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "777"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1212,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1212"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "九十九ノ恋結ビ",
+      "artist": "irucaice feat. あやぽんず＊(森羅万象)",
+      "genre": "和風歌謡電子恋歌",
+      "bpm": "163",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:53",
+      "duration_seconds": 113,
+      "movie": "専用:アオニサイ?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 519,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "519"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 990,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "990"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1322,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1322"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 517,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "517"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 998,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "998"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1321,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1321"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "倍倍FIGHT!",
+      "artist": "Remixed by L.E.D.-G feat.佐伯伊織",
+      "genre": "IIDX EDITION",
+      "bpm": "176",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:50",
+      "duration_seconds": 110,
+      "movie": "SINOBUZ POPS汎用",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": true,
+            "level": 1,
+            "notes": 100,
+            "flags": [],
+            "raw_level": "1",
+            "raw_notes": "100"
+          },
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 311,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "311"
+          },
+          "H": {
+            "exists": true,
+            "level": 7,
+            "notes": 624,
+            "flags": [],
+            "raw_level": "7",
+            "raw_notes": "624"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1084,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1084"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 372,
+            "flags": [],
+            "raw_level": "4",
+            "raw_notes": "372"
+          },
+          "H": {
+            "exists": true,
+            "level": 7,
+            "notes": 745,
+            "flags": [],
+            "raw_level": "7",
+            "raw_notes": "745"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1096,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1096"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "夜叉ノ魂",
+      "artist": "劇団レコード feat.T4K",
+      "genre": "BATTLE SWORD",
+      "bpm": "170",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:57",
+      "duration_seconds": 117,
+      "movie": "copula JAPANESQUE汎用+レイヤー",
+      "layer": "NAGI?",
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 555,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "555"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 966,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 9",
+            "raw_notes": "966"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1356,
+            "flags": [
+              "CN",
+              "MSS"
+            ],
+            "raw_level": "[CN] [MSS] 11",
+            "raw_notes": "1356"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 541,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "541"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 997,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "997"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1348,
+            "flags": [
+              "CN",
+              "MSS"
+            ],
+            "raw_level": "[CN] [MSS] 11",
+            "raw_notes": "1348"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "恋する☆宇宙戦争っ！！(恋する★ハードコアRemix)",
+      "artist": "Prim/Remixed by RoughSketch",
+      "genre": "Hi-リミックスコア",
+      "bpm": null,
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "後日登場予定",
+      "release_date": null,
+      "availability": "planned",
+      "time": null,
+      "duration_seconds": null,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": null,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "悪ジ狂キ",
+      "artist": "RoughSkreamZ feat. Fra",
+      "genre": "DJENT/UK INDUSTRIAL/RAP",
+      "bpm": "113",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:00",
+      "duration_seconds": 120,
+      "movie": "専用:Kaito?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 519,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": "519"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 919,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 9",
+            "raw_notes": "919"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1346,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1346"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 513,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": "513"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 887,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "887"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1362,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1362"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "斎戒",
+      "artist": "satella",
+      "genre": "ORIENTAL",
+      "bpm": "172",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:00",
+      "duration_seconds": 120,
+      "movie": "ZINRAI JAPANESQUE汎用",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 591,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "591"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1014,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "1014"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1532,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 12",
+            "raw_notes": "1532"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 597,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 6",
+            "raw_notes": "597"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 987,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "987"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1638,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 12",
+            "raw_notes": "1638"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "映夢雪花抄",
+      "artist": "めと (Metomate)",
+      "genre": "EPHEMERAL ROCK",
+      "bpm": "164",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:55",
+      "duration_seconds": 115,
+      "movie": "専用:alo?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 408,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 4",
+            "raw_notes": "408"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 781,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 8",
+            "raw_notes": "781"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1180,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "1180"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 406,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 4",
+            "raw_notes": "406"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 758,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 8",
+            "raw_notes": "758"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1101,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 10",
+            "raw_notes": "1101"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "月下散刄",
+      "artist": "U1 overground",
+      "genre": "ORBITALIC MOON REQUIEM",
+      "bpm": "160",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:05",
+      "duration_seconds": 125,
+      "movie": "専用:ar?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 7,
+            "notes": 627,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 7",
+            "raw_notes": "627"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 923,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "923"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": null,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 12",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 7,
+            "notes": 621,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 7",
+            "raw_notes": "621"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 934,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "934"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": null,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 12",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "泡沫と月",
+      "artist": "xi feat. Risa Yuzuki",
+      "genre": "JAPANESE PIANO ROCK",
+      "bpm": "174",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:05",
+      "duration_seconds": 125,
+      "movie": "ZINRAI JAPANESQUE汎用",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 503,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "503"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 831,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "831"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1299,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1299"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 516,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "516"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 822,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "822"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1225,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "1225"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "雷霆の如し",
+      "artist": "dj TAKA",
+      "genre": "TECHSPEED",
+      "bpm": "162",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "2:02",
+      "duration_seconds": 122,
+      "movie": "専用+レイヤー",
+      "layer": "GOLI?",
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 533,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "533"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 903,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "903"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1547,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1547"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 564,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "564"
+          },
+          "H": {
+            "exists": true,
+            "level": 8,
+            "notes": 913,
+            "flags": [],
+            "raw_level": "8",
+            "raw_notes": "913"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1488,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1488"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "霹靂",
+      "artist": "Yuta Imai",
+      "genre": "EUPHORIC HARDSTYLE",
+      "bpm": "160",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "2026/09/16配信(稼働初期)",
+      "release_date": "2026-09-16",
+      "availability": "listed",
+      "time": "1:59",
+      "duration_seconds": 119,
+      "movie": "専用:Routes?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 366,
+            "flags": [
+              "HCN"
+            ],
+            "raw_level": "[HCN] 4",
+            "raw_notes": "366"
+          },
+          "H": {
+            "exists": true,
+            "level": 7,
+            "notes": 642,
+            "flags": [
+              "HCN"
+            ],
+            "raw_level": "[HCN] 7",
+            "raw_notes": "642"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1118,
+            "flags": [
+              "HCN"
+            ],
+            "raw_level": "[HCN] 10",
+            "raw_notes": "1118"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 4,
+            "notes": 374,
+            "flags": [
+              "HCN"
+            ],
+            "raw_level": "[HCN] 4",
+            "raw_notes": "374"
+          },
+          "H": {
+            "exists": true,
+            "level": 7,
+            "notes": 676,
+            "flags": [
+              "HCN"
+            ],
+            "raw_level": "[HCN] 7",
+            "raw_notes": "676"
+          },
+          "A": {
+            "exists": true,
+            "level": 10,
+            "notes": 1179,
+            "flags": [
+              "HCN"
+            ],
+            "raw_level": "[HCN] 10",
+            "raw_notes": "1179"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    }
+  ]
+}
