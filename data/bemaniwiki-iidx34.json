@@ -5,8 +5,8 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-10-05T23:34:27+00:00",
-  "song_count": 43,
+  "updated_at": "2026-10-07T09:46:01+00:00",
+  "song_count": 44,
   "songs": [
     {
       "title": "9-1",
@@ -751,9 +751,9 @@
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "デフォルト曲",
-      "section": "後日登場予定",
-      "release_date": null,
-      "availability": "planned",
+      "section": "2026/10/08配信",
+      "release_date": "2026-10-08",
+      "availability": "listed",
       "time": null,
       "duration_seconds": null,
       "movie": "公式MV",
@@ -920,6 +920,101 @@
             "flags": [],
             "raw_level": "11",
             "raw_notes": "1454"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "GOLD RUSH (all-or-nothing MIX)",
+      "artist": "DJ YOSHITAKA with beatnation",
+      "genre": "RECKLESS RAVE",
+      "bpm": null,
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "デフォルト曲",
+      "section": "後日登場予定",
+      "release_date": null,
+      "availability": "planned",
+      "time": null,
+      "duration_seconds": null,
+      "movie": "公式MV",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
           },
           "L": {
             "exists": false,
@@ -2259,9 +2354,9 @@
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "デフォルト曲",
-      "section": "後日登場予定",
-      "release_date": null,
-      "availability": "planned",
+      "section": "2026/10/08配信",
+      "release_date": "2026-10-08",
+      "availability": "listed",
       "time": null,
       "duration_seconds": null,
       "movie": "公式MV",
