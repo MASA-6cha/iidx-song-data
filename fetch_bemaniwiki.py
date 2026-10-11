@@ -18,6 +18,13 @@ PAGE = 'beatmania IIDX 34 ZINRAI/新曲リスト'
 SOURCE = 'https://bemaniwiki.com/index.php?' + urllib.parse.urlencode({'cmd': 'read', 'page': PAGE}, quote_via=urllib.parse.quote)
 AGENT = 'IIDX34SongCollector/1.0'
 DIFFICULTIES = [('SP', d) for d in ['B', 'N', 'H', 'A', 'L']] + [('DP', d) for d in ['N', 'H', 'A', 'L']]
+# Reviewed against both source tables on 2026-10-11: full-width exclamation
+# marks became ASCII and a space was inserted before the remix suffix.
+# Keep this directional and explicit: broad normalization can merge real songs.
+REVIEWED_TITLE_RENAMES = {
+    '恋する☆宇宙戦争っ！！(恋する★ハードコアRemix)':
+        '恋する☆宇宙戦争っ!! (恋する★ハードコアRemix)',
+}
 
 
 def text(cell):
@@ -199,6 +206,41 @@ def atomic_write(path, raw):
             os.unlink(temporary)
 
 
+def validate_song_update(previous_songs, songs, *, allow_removals=False):
+    """Allow only reviewed, one-to-one renames; fail closed on other losses."""
+    def index(items):
+        result = {}
+        for song in items:
+            name = song['title']
+            if not name or name in result:
+                raise ValueError('Empty or duplicate song title')
+            result[name] = song
+        return result
+
+    previous, current = index(previous_songs), index(songs)
+    # An alias must never collapse two rows, even with --allow-removals.
+    for old, new in REVIEWED_TITLE_RENAMES.items():
+        if (old in previous and new in previous) or (old in current and new in current):
+            raise ValueError('Ambiguous reviewed title rename: ' + old + ' -> ' + new)
+    missing = set(previous) - set(current)
+    renamed = []
+    for old in sorted(missing):
+        new = REVIEWED_TITLE_RENAMES.get(old)
+        if new not in current or new in previous:
+            continue
+        # The page has no stable song IDs. Require independent identity fields;
+        # chart values and availability may legitimately change at release time.
+        if not all(previous[old].get(key) not in (None, '')
+                   and previous[old][key] == current[new].get(key)
+                   for key in ('series', 'artist', 'genre')):
+            continue
+        renamed.append({'from': old, 'to': new})
+        missing.remove(old)
+    if missing and not allow_removals:
+        raise ValueError('Songs disappeared; review manually: ' + ', '.join(sorted(missing)))
+    return renamed
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--html', type=Path, help='Use local HTML for offline validation')
@@ -213,10 +255,8 @@ def main():
     songs = parse_page(raw)
     target = args.output / 'bemaniwiki-iidx34.json'
     previous = json.loads(target.read_text('utf-8')) if target.exists() else None
-    if previous and not args.allow_removals:
-        missing = {s['title'] for s in previous['songs']} - {s['title'] for s in songs}
-        if missing:
-            raise ValueError('Songs disappeared; review manually: ' + ', '.join(sorted(missing)))
+    renamed = validate_song_update(previous['songs'] if previous else [], songs,
+                                   allow_removals=args.allow_removals)
     now = datetime.now(timezone.utc).isoformat(timespec='seconds')
     changed = not previous or previous['songs'] != songs
     payload = {'schema_version': 1, 'source': {'name': 'BEMANIWiki 2nd', 'url': SOURCE, 'page': PAGE},
@@ -224,11 +264,15 @@ def main():
     # Prepare all serialized outputs before any replacement. GitHub commits them together.
     json_raw = (json.dumps(payload, ensure_ascii=False, indent=2) + '\n').encode('utf-8')
     csv_raw = csv_bytes(songs)
-    status_raw = (json.dumps({'checked_at': now, 'mode': 'offline' if args.html else 'live', 'song_count': len(songs), 'data_changed': changed}, indent=2) + '\n').encode()
+    status_raw = (json.dumps({'checked_at': now, 'mode': 'offline' if args.html else 'live',
+                             'song_count': len(songs), 'data_changed': changed,
+                             'title_changes': renamed}, ensure_ascii=False, indent=2) + '\n').encode('utf-8')
     args.output.mkdir(parents=True, exist_ok=True)
     atomic_write(target, json_raw)
     atomic_write(args.output / 'bemaniwiki-iidx34.csv', csv_raw)
     atomic_write(args.output / 'bemaniwiki-iidx34-status.json', status_raw)
+    for rename in renamed:
+        print('Reviewed title rename: ' + rename['from'] + ' -> ' + rename['to'])
     print(f'OK: {len(songs)} songs; changed={changed}; mode={"offline" if args.html else "live"}')
 
 
