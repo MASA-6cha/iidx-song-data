@@ -1,12 +1,7 @@
 {
-  "checked_at": "2026-10-11T05:04:58+00:00",
+  "checked_at": "2026-10-11T09:39:00+00:00",
   "mode": "live",
   "song_count": 44,
-  "data_changed": true,
-  "title_changes": [
-    {
-      "from": "恋する☆宇宙戦争っ！！(恋する★ハードコアRemix)",
-      "to": "恋する☆宇宙戦争っ!! (恋する★ハードコアRemix)"
-    }
-  ]
+  "data_changed": false,
+  "title_changes": []
 }
