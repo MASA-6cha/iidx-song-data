@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-10-07T09:46:01+00:00",
+  "updated_at": "2026-10-11T05:04:58+00:00",
   "song_count": 44,
   "songs": [
     {
@@ -158,9 +158,10 @@
             "level": 9,
             "notes": 928,
             "flags": [
-              "CN"
+              "CN",
+              "BSS"
             ],
-            "raw_level": "[CN] 9",
+            "raw_level": "[CN] [BSS] 9",
             "raw_notes": "928"
           },
           "A": {
@@ -168,9 +169,10 @@
             "level": 11,
             "notes": 1405,
             "flags": [
-              "CN"
+              "CN",
+              "BSS"
             ],
-            "raw_level": "[CN] 11",
+            "raw_level": "[CN] [BSS] 11",
             "raw_notes": "1405"
           },
           "L": {
@@ -198,9 +200,10 @@
             "level": 9,
             "notes": 926,
             "flags": [
-              "CN?"
+              "CN",
+              "BSS"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] [BSS] 9",
             "raw_notes": "926"
           },
           "A": {
@@ -208,9 +211,10 @@
             "level": 11,
             "notes": 1384,
             "flags": [
-              "CN"
+              "CN",
+              "BSS"
             ],
-            "raw_level": "[CN] 11",
+            "raw_level": "[CN] [BSS] 11",
             "raw_notes": "1384"
           },
           "L": {
@@ -606,9 +610,9 @@
             "level": 9,
             "notes": 895,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] 9",
             "raw_notes": "895"
           },
           "A": {
@@ -754,8 +758,8 @@
       "section": "2026/10/08配信",
       "release_date": "2026-10-08",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "2:11",
+      "duration_seconds": 131,
       "movie": "公式MV",
       "layer": null,
       "charts": {
@@ -769,28 +773,34 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 4,
+            "notes": 428,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 4",
+            "raw_notes": "428"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 7,
+            "notes": 701,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 7",
+            "raw_notes": "701"
           },
           "A": {
             "exists": true,
             "level": 10,
-            "notes": null,
-            "flags": [],
-            "raw_level": "10",
-            "raw_notes": ""
+            "notes": 1050,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "1050"
           },
           "L": {
             "exists": false,
@@ -803,28 +813,34 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 4,
+            "notes": 449,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 4",
+            "raw_notes": "449"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 8,
+            "notes": 767,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 8",
+            "raw_notes": "767"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 10,
+            "notes": 1162,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 10",
+            "raw_notes": "1162"
           },
           "L": {
             "exists": false,
@@ -1288,9 +1304,9 @@
             "level": 5,
             "notes": 375,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 5",
+            "raw_level": "[CN] 5",
             "raw_notes": "375"
           },
           "H": {
@@ -1298,9 +1314,9 @@
             "level": 8,
             "notes": 713,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 8",
+            "raw_level": "[CN] 8",
             "raw_notes": "713"
           },
           "A": {
@@ -1405,9 +1421,9 @@
             "level": 9,
             "notes": 911,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] 9",
             "raw_notes": "911"
           },
           "A": {
@@ -1600,9 +1616,9 @@
             "level": 5,
             "notes": 523,
             "flags": [
-              "CN?"
+              "BSS"
             ],
-            "raw_level": "[CN?] 5",
+            "raw_level": "[BSS] 5",
             "raw_notes": "523"
           },
           "H": {
@@ -1710,9 +1726,9 @@
             "level": 6,
             "notes": 541,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 6",
+            "raw_level": "[CN] 6",
             "raw_notes": "541"
           },
           "H": {
@@ -1720,9 +1736,9 @@
             "level": 9,
             "notes": 846,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] 9",
             "raw_notes": "846"
           },
           "A": {
@@ -1817,9 +1833,9 @@
             "level": 5,
             "notes": 456,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 5",
+            "raw_level": "[CN] 5",
             "raw_notes": "456"
           },
           "H": {
@@ -1827,9 +1843,9 @@
             "level": 8,
             "notes": 829,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 8",
+            "raw_level": "[CN] 8",
             "raw_notes": "829"
           },
           "A": {
@@ -2349,7 +2365,7 @@
       "title": "gigadelic (WILD STYLE)",
       "artist": "teranoid",
       "genre": "NUSTYLE GABBA",
-      "bpm": null,
+      "bpm": "190",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
@@ -2357,8 +2373,8 @@
       "section": "2026/10/08配信",
       "release_date": "2026-10-08",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "2:06",
+      "duration_seconds": 126,
       "movie": "公式MV",
       "layer": null,
       "charts": {
@@ -2372,28 +2388,37 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 7,
+            "notes": 632,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 7",
+            "raw_notes": "632"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 10,
+            "notes": 953,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 10",
+            "raw_notes": "953"
           },
           "A": {
             "exists": true,
             "level": 12,
-            "notes": null,
-            "flags": [],
-            "raw_level": "12",
-            "raw_notes": ""
+            "notes": 1580,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 12",
+            "raw_notes": "1580"
           },
           "L": {
             "exists": false,
@@ -2406,28 +2431,37 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 6,
+            "notes": 650,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 6",
+            "raw_notes": "650"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 10,
+            "notes": 938,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 10",
+            "raw_notes": "938"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 12,
+            "notes": 1583,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 12",
+            "raw_notes": "1583"
           },
           "L": {
             "exists": false,
@@ -2531,9 +2565,9 @@
             "level": 11,
             "notes": 1385,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 11",
+            "raw_level": "[CN] 11",
             "raw_notes": "1385"
           },
           "L": {
@@ -2619,9 +2653,9 @@
             "level": 6,
             "notes": 657,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 6",
+            "raw_level": "[CN] 6",
             "raw_notes": "657"
           },
           "H": {
@@ -2629,9 +2663,10 @@
             "level": 10,
             "notes": 1193,
             "flags": [
-              "CN?"
+              "CN",
+              "BSS"
             ],
-            "raw_level": "[CN?] 10",
+            "raw_level": "[CN] [BSS] 10",
             "raw_notes": "1193"
           },
           "A": {
@@ -3603,9 +3638,9 @@
             "level": 9,
             "notes": 997,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] 9",
             "raw_notes": "997"
           },
           "A": {
@@ -3631,7 +3666,7 @@
       }
     },
     {
-      "title": "恋する☆宇宙戦争っ！！(恋する★ハードコアRemix)",
+      "title": "恋する☆宇宙戦争っ!! (恋する★ハードコアRemix)",
       "artist": "Prim/Remixed by RoughSketch",
       "genre": "Hi-リミックスコア",
       "bpm": null,
@@ -3802,9 +3837,9 @@
             "level": 9,
             "notes": 887,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] 9",
             "raw_notes": "887"
           },
           "A": {
@@ -4016,9 +4051,9 @@
             "level": 8,
             "notes": 758,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 8",
+            "raw_level": "[CN] 8",
             "raw_notes": "758"
           },
           "A": {
@@ -4114,9 +4149,9 @@
             "level": 7,
             "notes": 621,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 7",
+            "raw_level": "[CN] 7",
             "raw_notes": "621"
           },
           "H": {

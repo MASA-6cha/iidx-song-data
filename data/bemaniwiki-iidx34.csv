@@ -10,12 +10,12 @@
 34,9-1,めめめ,HARD DANCE,160,listed,2026-09-16,DP,L,False,,,,124
 34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,SP,B,False,,,,126
 34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,SP,N,True,5,525,CN,126
-34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,SP,H,True,9,928,CN,126
-34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,SP,A,True,11,1405,CN,126
+34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,SP,H,True,9,928,CN|BSS,126
+34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,SP,A,True,11,1405,CN|BSS,126
 34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,SP,L,False,,,,126
 34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,DP,N,True,5,527,CN,126
-34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,DP,H,True,9,926,CN?,126
-34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,DP,A,True,11,1384,CN,126
+34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,DP,H,True,9,926,CN|BSS,126
+34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,DP,A,True,11,1384,CN|BSS,126
 34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,DP,L,False,,,,126
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,B,False,,,,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,N,True,6,538,CN|BSS,121
@@ -50,7 +50,7 @@
 34,Dying 4 U,EmoCosine,JERSEY FUTURE CORE,179,listed,2026-09-16,SP,A,True,11,1351,CN,120
 34,Dying 4 U,EmoCosine,JERSEY FUTURE CORE,179,listed,2026-09-16,SP,L,False,,,,120
 34,Dying 4 U,EmoCosine,JERSEY FUTURE CORE,179,listed,2026-09-16,DP,N,True,5,521,CN,120
-34,Dying 4 U,EmoCosine,JERSEY FUTURE CORE,179,listed,2026-09-16,DP,H,True,9,895,CN?,120
+34,Dying 4 U,EmoCosine,JERSEY FUTURE CORE,179,listed,2026-09-16,DP,H,True,9,895,CN,120
 34,Dying 4 U,EmoCosine,JERSEY FUTURE CORE,179,listed,2026-09-16,DP,A,True,11,1320,CN,120
 34,Dying 4 U,EmoCosine,JERSEY FUTURE CORE,179,listed,2026-09-16,DP,L,False,,,,120
 34,Ex-Otogibanashi,ryo (supercell) / かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織) from 超かぐや姫！,アニメ,190,listed,2026-09-16,SP,B,True,1,87,,109
@@ -62,15 +62,15 @@
 34,Ex-Otogibanashi,ryo (supercell) / かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織) from 超かぐや姫！,アニメ,190,listed,2026-09-16,DP,H,True,6,508,CN|BSS,109
 34,Ex-Otogibanashi,ryo (supercell) / かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織) from 超かぐや姫！,アニメ,190,listed,2026-09-16,DP,A,True,10,800,CN|BSS,109
 34,Ex-Otogibanashi,ryo (supercell) / かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織) from 超かぐや姫！,アニメ,190,listed,2026-09-16,DP,L,False,,,,109
-34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,B,False,,,,
-34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,N,,,,,
-34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,H,,,,,
-34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,A,True,10,,,
-34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,L,False,,,,
-34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,N,,,,,
-34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,H,,,,,
-34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,A,,,,,
-34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,L,False,,,,
+34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,B,False,,,,131
+34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,N,True,4,428,CN,131
+34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,H,True,7,701,CN,131
+34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,A,True,10,1050,CN,131
+34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,SP,L,False,,,,131
+34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,N,True,4,449,CN,131
+34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,H,True,8,767,CN,131
+34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,A,True,10,1162,CN,131
+34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,L,False,,,,131
 34,GENERATED GRID,Sota Fujimori,TECH CORE,175,listed,2026-09-16,SP,B,False,,,,126
 34,GENERATED GRID,Sota Fujimori,TECH CORE,175,listed,2026-09-16,SP,N,True,5,563,,126
 34,GENERATED GRID,Sota Fujimori,TECH CORE,175,listed,2026-09-16,SP,H,True,9,989,,126
@@ -112,8 +112,8 @@
 34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,SP,H,True,8,702,CN,111
 34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,SP,A,True,10,1062,CN,111
 34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,SP,L,False,,,,111
-34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,DP,N,True,5,375,CN?,111
-34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,DP,H,True,8,713,CN?,111
+34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,DP,N,True,5,375,CN,111
+34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,DP,H,True,8,713,CN,111
 34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,DP,A,True,10,1024,CN,111
 34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,DP,L,False,,,,111
 34,Memorylust,nora2r,HARDCORE,185,listed,2026-09-16,SP,B,False,,,,118
@@ -122,7 +122,7 @@
 34,Memorylust,nora2r,HARDCORE,185,listed,2026-09-16,SP,A,True,11,1453,CN,118
 34,Memorylust,nora2r,HARDCORE,185,listed,2026-09-16,SP,L,False,,,,118
 34,Memorylust,nora2r,HARDCORE,185,listed,2026-09-16,DP,N,True,5,535,CN,118
-34,Memorylust,nora2r,HARDCORE,185,listed,2026-09-16,DP,H,True,9,911,CN?,118
+34,Memorylust,nora2r,HARDCORE,185,listed,2026-09-16,DP,H,True,9,911,CN,118
 34,Memorylust,nora2r,HARDCORE,185,listed,2026-09-16,DP,A,True,11,1381,CN,118
 34,Memorylust,nora2r,HARDCORE,185,listed,2026-09-16,DP,L,False,,,,118
 34,NOMAD (feat. らっぷびと),魂音泉,HIPHOP,115,listed,2026-09-16,SP,B,False,,,,122
@@ -139,7 +139,7 @@
 34,OTOROSHI,影虎。,ORIENTAL HARDPSY,160,listed,2026-09-16,SP,H,True,9,938,CN|BSS,120
 34,OTOROSHI,影虎。,ORIENTAL HARDPSY,160,listed,2026-09-16,SP,A,True,12,1686,CN|BSS,120
 34,OTOROSHI,影虎。,ORIENTAL HARDPSY,160,listed,2026-09-16,SP,L,False,,,,120
-34,OTOROSHI,影虎。,ORIENTAL HARDPSY,160,listed,2026-09-16,DP,N,True,5,523,CN?,120
+34,OTOROSHI,影虎。,ORIENTAL HARDPSY,160,listed,2026-09-16,DP,N,True,5,523,BSS,120
 34,OTOROSHI,影虎。,ORIENTAL HARDPSY,160,listed,2026-09-16,DP,H,True,9,946,CN|BSS,120
 34,OTOROSHI,影虎。,ORIENTAL HARDPSY,160,listed,2026-09-16,DP,A,True,12,1508,CN|BSS,120
 34,OTOROSHI,影虎。,ORIENTAL HARDPSY,160,listed,2026-09-16,DP,L,False,,,,120
@@ -148,8 +148,8 @@
 34,PISTOL SWORD,KARUT,HYBRID BREAKS,148,listed,2026-09-16,SP,H,True,9,852,CN,121
 34,PISTOL SWORD,KARUT,HYBRID BREAKS,148,listed,2026-09-16,SP,A,True,11,1425,CN|BSS,121
 34,PISTOL SWORD,KARUT,HYBRID BREAKS,148,listed,2026-09-16,SP,L,False,,,,121
-34,PISTOL SWORD,KARUT,HYBRID BREAKS,148,listed,2026-09-16,DP,N,True,6,541,CN?,121
-34,PISTOL SWORD,KARUT,HYBRID BREAKS,148,listed,2026-09-16,DP,H,True,9,846,CN?,121
+34,PISTOL SWORD,KARUT,HYBRID BREAKS,148,listed,2026-09-16,DP,N,True,6,541,CN,121
+34,PISTOL SWORD,KARUT,HYBRID BREAKS,148,listed,2026-09-16,DP,H,True,9,846,CN,121
 34,PISTOL SWORD,KARUT,HYBRID BREAKS,148,listed,2026-09-16,DP,A,True,11,1336,CN,121
 34,PISTOL SWORD,KARUT,HYBRID BREAKS,148,listed,2026-09-16,DP,L,False,,,,121
 34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,SP,B,False,,,,128
@@ -157,8 +157,8 @@
 34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,SP,H,True,8,793,CN,128
 34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,SP,A,True,10,1111,CN,128
 34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,SP,L,False,,,,128
-34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,DP,N,True,5,456,CN?,128
-34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,DP,H,True,8,829,CN?,128
+34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,DP,N,True,5,456,CN,128
+34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,DP,H,True,8,829,CN,128
 34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,DP,A,True,10,1162,CN|BSS,128
 34,Rise Beyond,Taishi,TRANCE,145,listed,2026-09-16,DP,L,False,,,,128
 34,Samurai Sword,Dubscribe,DUBSTEP,150,listed,2026-09-16,SP,B,False,,,,118
@@ -206,15 +206,15 @@
 34,TEKNO KEISER,STEVIE(Trymatic)/Nana Takahashi Prod. by L.E.D.,DEATH TEKNO,168,listed,2026-09-16,DP,H,True,10,1194,,124
 34,TEKNO KEISER,STEVIE(Trymatic)/Nana Takahashi Prod. by L.E.D.,DEATH TEKNO,168,listed,2026-09-16,DP,A,True,12,2009,,124
 34,TEKNO KEISER,STEVIE(Trymatic)/Nana Takahashi Prod. by L.E.D.,DEATH TEKNO,168,listed,2026-09-16,DP,L,False,,,,124
-34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,,listed,2026-10-08,SP,B,False,,,,
-34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,,listed,2026-10-08,SP,N,,,,,
-34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,,listed,2026-10-08,SP,H,,,,,
-34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,,listed,2026-10-08,SP,A,True,12,,,
-34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,,listed,2026-10-08,SP,L,False,,,,
-34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,,listed,2026-10-08,DP,N,,,,,
-34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,,listed,2026-10-08,DP,H,,,,,
-34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,,listed,2026-10-08,DP,A,,,,,
-34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,,listed,2026-10-08,DP,L,False,,,,
+34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,190,listed,2026-10-08,SP,B,False,,,,126
+34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,190,listed,2026-10-08,SP,N,True,7,632,CN|BSS,126
+34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,190,listed,2026-10-08,SP,H,True,10,953,CN|BSS,126
+34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,190,listed,2026-10-08,SP,A,True,12,1580,CN|BSS,126
+34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,190,listed,2026-10-08,SP,L,False,,,,126
+34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,190,listed,2026-10-08,DP,N,True,6,650,CN|BSS,126
+34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,190,listed,2026-10-08,DP,H,True,10,938,CN|BSS,126
+34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,190,listed,2026-10-08,DP,A,True,12,1583,CN|BSS,126
+34,gigadelic (WILD STYLE),teranoid,NUSTYLE GABBA,190,listed,2026-10-08,DP,L,False,,,,126
 34,moffing 猫叉Master meets β2 黒パカミックス,猫叉Master,クロモフロック,170,listed,2026-10-01,SP,B,False,,,,129
 34,moffing 猫叉Master meets β2 黒パカミックス,猫叉Master,クロモフロック,170,listed,2026-10-01,SP,N,True,5,527,CN,129
 34,moffing 猫叉Master meets β2 黒パカミックス,猫叉Master,クロモフロック,170,listed,2026-10-01,SP,H,True,8,788,CN,129
@@ -222,15 +222,15 @@
 34,moffing 猫叉Master meets β2 黒パカミックス,猫叉Master,クロモフロック,170,listed,2026-10-01,SP,L,False,,,,129
 34,moffing 猫叉Master meets β2 黒パカミックス,猫叉Master,クロモフロック,170,listed,2026-10-01,DP,N,True,5,507,CN,129
 34,moffing 猫叉Master meets β2 黒パカミックス,猫叉Master,クロモフロック,170,listed,2026-10-01,DP,H,True,8,801,CN,129
-34,moffing 猫叉Master meets β2 黒パカミックス,猫叉Master,クロモフロック,170,listed,2026-10-01,DP,A,True,11,1385,CN?,129
+34,moffing 猫叉Master meets β2 黒パカミックス,猫叉Master,クロモフロック,170,listed,2026-10-01,DP,A,True,11,1385,CN,129
 34,moffing 猫叉Master meets β2 黒パカミックス,猫叉Master,クロモフロック,170,listed,2026-10-01,DP,L,False,,,,129
 34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,SP,B,False,,,,118
 34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,SP,N,True,6,658,CN,118
 34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,SP,H,True,10,1145,CN,118
 34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,SP,A,True,12,1868,CN|BSS,118
 34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,SP,L,False,,,,118
-34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,DP,N,True,6,657,CN?,118
-34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,DP,H,True,10,1193,CN?,118
+34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,DP,N,True,6,657,CN,118
+34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,DP,H,True,10,1193,CN|BSS,118
 34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,DP,A,True,12,1940,CN|BSS,118
 34,ΛИ0MΛLY,Yvya,PROGRESSIVE METAL,150,listed,2026-09-16,DP,L,False,,,,118
 34,でぃすこみゅーたんと！,ナユタン星人,ボカロ,176,listed,2026-09-16,SP,B,True,1,129,,115
@@ -320,25 +320,25 @@
 34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,SP,A,True,11,1356,CN|MSS,117
 34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,SP,L,False,,,,117
 34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,DP,N,True,6,541,CN,117
-34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,DP,H,True,9,997,CN?,117
+34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,DP,H,True,9,997,CN,117
 34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,DP,A,True,11,1348,CN|MSS,117
 34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,DP,L,False,,,,117
-34,恋する☆宇宙戦争っ！！(恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,B,False,,,,
-34,恋する☆宇宙戦争っ！！(恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,N,,,,,
-34,恋する☆宇宙戦争っ！！(恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,H,,,,,
-34,恋する☆宇宙戦争っ！！(恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,A,True,12,,,
-34,恋する☆宇宙戦争っ！！(恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,L,False,,,,
-34,恋する☆宇宙戦争っ！！(恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,DP,N,,,,,
-34,恋する☆宇宙戦争っ！！(恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,DP,H,,,,,
-34,恋する☆宇宙戦争っ！！(恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,DP,A,,,,,
-34,恋する☆宇宙戦争っ！！(恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,DP,L,False,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,B,False,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,N,,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,H,,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,A,True,12,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,SP,L,False,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,DP,N,,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,DP,H,,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,DP,A,,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,planned,,DP,L,False,,,,
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,SP,B,False,,,,120
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,SP,N,True,6,519,,120
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,SP,H,True,9,919,CN,120
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,SP,A,True,11,1346,CN,120
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,SP,L,False,,,,120
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,DP,N,True,6,513,,120
-34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,DP,H,True,9,887,CN?,120
+34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,DP,H,True,9,887,CN,120
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,DP,A,True,11,1362,CN,120
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,DP,L,False,,,,120
 34,斎戒,satella,ORIENTAL,172,listed,2026-09-16,SP,B,False,,,,120
@@ -356,7 +356,7 @@
 34,映夢雪花抄,めと (Metomate),EPHEMERAL ROCK,164,listed,2026-09-16,SP,A,True,10,1180,CN,115
 34,映夢雪花抄,めと (Metomate),EPHEMERAL ROCK,164,listed,2026-09-16,SP,L,False,,,,115
 34,映夢雪花抄,めと (Metomate),EPHEMERAL ROCK,164,listed,2026-09-16,DP,N,True,4,406,CN,115
-34,映夢雪花抄,めと (Metomate),EPHEMERAL ROCK,164,listed,2026-09-16,DP,H,True,8,758,CN?,115
+34,映夢雪花抄,めと (Metomate),EPHEMERAL ROCK,164,listed,2026-09-16,DP,H,True,8,758,CN,115
 34,映夢雪花抄,めと (Metomate),EPHEMERAL ROCK,164,listed,2026-09-16,DP,A,True,10,1101,CN|BSS,115
 34,映夢雪花抄,めと (Metomate),EPHEMERAL ROCK,164,listed,2026-09-16,DP,L,False,,,,115
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,B,False,,,,125
@@ -364,7 +364,7 @@
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,H,True,10,923,CN,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,A,True,12,,CN?,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,L,False,,,,125
-34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,N,True,7,621,CN?,125
+34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,N,True,7,621,CN,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,H,True,10,934,CN,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,A,True,12,,CN?,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,L,False,,,,125
