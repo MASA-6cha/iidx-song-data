@@ -7,11 +7,17 @@ on:
       - fetch_bemaniwiki.py
       - requirements-bemaniwiki.txt
       - test_bemaniwiki.py
+      - report_bemaniwiki_schedule.py
+      - test_bemaniwiki_schedule.py
   schedule:
-    - cron: '0 3,12 * * *' # JST 12:00 / 21:00
+    # Avoid the busy start of the hour. Still exactly two daily triggers.
+    # Separate entries identify the intended slot even after midnight JST.
+    - cron: '7 3 * * *' # JST 12:07 (target 12:00 + 7 minutes)
+    - cron: '7 12 * * *' # JST 21:07 (target 21:00 + 7 minutes)
   workflow_dispatch:
 permissions:
   contents: write
+  actions: read # Read this run's timestamps for diagnostics only.
 concurrency:
   group: bemaniwiki-iidx34-update
   cancel-in-progress: false
@@ -27,7 +33,13 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m pip install -r requirements-bemaniwiki.txt
-      - run: python -m unittest discover -s . -p 'test_bemaniwiki.py'
+      - run: python -m unittest discover -s . -p 'test_bemaniwiki*.py'
+      - name: Report scheduling delay
+        continue-on-error: true # Diagnostics must not block protected retrieval.
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SCHEDULE_CRON: ${{ github.event.schedule }}
+        run: python report_bemaniwiki_schedule.py
       - run: python fetch_bemaniwiki.py
       - name: Commit validated output
         run: |
