@@ -1,6 +1,6 @@
 # BEMANIWiki IIDX 34 新曲データ取得
 
-1日2回（日本時間12:00・21:00）、新曲リスト1ページとrobots.txtを取得してJSON・CSVを更新します。PCを起動しておく必要はありません。GitHub Actions側の遅延はあります。
+1日2回、新曲リスト1ページとrobots.txtを取得してJSON・CSVを更新します。目標は日本時間12:00・21:00です。2026-10-14からは毎時00分の混雑を避け、12:07・21:07（UTC 03:07・12:07）に起動を予約しています。PCを起動しておく必要はありません。GitHub Actionsの定期起動は時刻・配送を保証しません。調査結果・改善方法・代替案は [SCHEDULING.md](SCHEDULING.md) を参照してください。
 
 ## 既存リポジトリへの追加
 
@@ -43,8 +43,8 @@ robots.txtを確認し、取得不可の指定があると停止します。404�
 
 ```
 python -m pip install -r requirements-bemaniwiki.txt
-python -m unittest discover -s . -p 'test_bemaniwiki.py'
+python -m unittest discover -s . -p 'test_bemaniwiki*.py'
 python fetch_bemaniwiki.py
 ```
 
-作成日：2026-10-05。更新日：2026-10-11。バージョン：1.0.1。
+作成日：2026-10-05。更新日：2026-10-14。取得コード：1.0.1（変更なし）。実行時刻診断：1.0。
