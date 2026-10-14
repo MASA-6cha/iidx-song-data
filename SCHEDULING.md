@@ -98,3 +98,16 @@ gh workflow run update-bemaniwiki.yml --repo MASA-6cha/iidx-song-data --ref main
 ローカルで26件のテストを実行し、workflowが2枠だけであること、取得・commitの対象とデータ保護コードが維持されていることを確認する。mainへの反映時にpushイベントで1回実取得を行い、Summary・テスト・44曲とデータ変更有無を確認する。
 
 push実行が成功しても、新しいschedule配送の時刻精度は未確認。変更後の最初の12:07・21:07以降のschedule実行結果で判断する。まず数日分のSummaryを比較し、長時間の遅延が続くなら外部workflow_dispatchまたはサーバー直接取得へ移す。
+
+## 2026-10-14の反映・検証結果
+
+GitHub連携APIの書き込みが403で拒否されたため、ユーザー指定のブラウザ操作でmainに反映した。
+
+- 診断コード・テスト・調査資料：`8e549aebd5eadfd5ce68c01c6d4cb01fb3c2b37f`。
+- workflow変更：[`19431da95843cc98fcaf194598e7b91b30b8aa6d`](https://github.com/MASA-6cha/iidx-song-data/commit/19431da95843cc98fcaf194598e7b91b30b8aa6d)。保存後のworkflowはローカルで検証した内容と完全一致。
+- [Actions #19](https://github.com/MASA-6cha/iidx-song-data/actions/runs/38504864146)：pushによる実行、成功、全体17秒。26件のテスト、時刻診断、実取得、取得状況のcommit/pushがすべて成功。
+- Summary：run作成12:10:21 JST、ジョブ開始12:10:23 JST、取得直前12:10:32 JST。診断用APIの取得も成功。
+- 実取得：`checked_at=2026-10-14T03:10:34+00:00`（12:10:34 JST）、44曲、`data_changed=false`、`title_changes=[]`。
+- JSON・CSV、取得コード、既存19件のデータ保護テストのblob SHAは変更前と一致。取得状況の確認時刻だけが更新された。
+
+反映時点で当日の12:07を過ぎていたため、新cronの次の予定枠は10月14日21:07 JST。このpush成功で処理の動作は検証できたが、新cronの定期起動精度はまだ未確認。今後のschedule実行のSummaryで予定→run作成の遅延を確認する。
