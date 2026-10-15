@@ -20,11 +20,11 @@
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,B,False,,,,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,N,True,6,538,CN|BSS,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,H,True,10,1022,CN|BSS,121
-34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,A,True,12,,CN?,121
+34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,A,True,12,1508,CN?,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,L,False,,,,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,N,True,6,546,CN|BSS,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,H,True,10,1046,CN|BSS,121
-34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,A,True,12,,CN?,121
+34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,A,True,12,1431,CN?,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,L,False,,,,121
 34,DEADRABBIT!!,Hylen feat.DJ14 (SCRATCHING),DJENTLE ZAAGBREAKSTEP,132,listed,2026-09-16,SP,B,False,,,,117
 34,DEADRABBIT!!,Hylen feat.DJ14 (SCRATCHING),DJENTLE ZAAGBREAKSTEP,132,listed,2026-09-16,SP,N,True,6,535,,117
@@ -38,11 +38,11 @@
 34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,SP,B,False,,,,117
 34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,SP,N,True,6,636,,117
 34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,SP,H,True,10,1033,,117
-34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,SP,A,True,12,,,117
+34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,SP,A,True,12,1643,,117
 34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,SP,L,False,,,,117
 34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,DP,N,True,6,641,,117
 34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,DP,H,True,10,1041,,117
-34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,DP,A,True,12,,,117
+34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,DP,A,True,12,1585,,117
 34,Deathstalker,Zekk,BREAKCORE,220,listed,2026-09-16,DP,L,False,,,,117
 34,Dying 4 U,EmoCosine,JERSEY FUTURE CORE,179,listed,2026-09-16,SP,B,False,,,,120
 34,Dying 4 U,EmoCosine,JERSEY FUTURE CORE,179,listed,2026-09-16,SP,N,True,5,521,CN,120
@@ -80,15 +80,15 @@
 34,GENERATED GRID,Sota Fujimori,TECH CORE,175,listed,2026-09-16,DP,H,True,9,989,,126
 34,GENERATED GRID,Sota Fujimori,TECH CORE,175,listed,2026-09-16,DP,A,True,11,1454,,126
 34,GENERATED GRID,Sota Fujimori,TECH CORE,175,listed,2026-09-16,DP,L,False,,,,126
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,,listed,2026-10-15,SP,B,False,,,,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,,listed,2026-10-15,SP,N,,,,,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,,listed,2026-10-15,SP,H,,,,,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,,listed,2026-10-15,SP,A,,,,,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,,listed,2026-10-15,SP,L,False,,,,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,,listed,2026-10-15,DP,N,,,,,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,,listed,2026-10-15,DP,H,,,,,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,,listed,2026-10-15,DP,A,,,,,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,,listed,2026-10-15,DP,L,False,,,,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,B,False,,,,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,N,True,6,587,CN,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,H,True,8,793,CN?,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,A,True,10,1111,CN,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,L,False,,,,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,DP,N,True,6,563,CN?,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,DP,H,True,9,880,CN?,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,DP,A,True,11,1342,CN|BSS,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,DP,L,False,,,,
 34,History of dj TAKA - single style collection -,dj TAKA,dj TAKA,160,listed,2026-10-01,SP,B,False,,,,138
 34,History of dj TAKA - single style collection -,dj TAKA,dj TAKA,160,listed,2026-10-01,SP,N,True,7,790,,138
 34,History of dj TAKA - single style collection -,dj TAKA,dj TAKA,160,listed,2026-10-01,SP,H,True,10,1381,,138
@@ -98,15 +98,15 @@
 34,History of dj TAKA - single style collection -,dj TAKA,dj TAKA,160,listed,2026-10-01,DP,H,True,10,1385,,138
 34,History of dj TAKA - single style collection -,dj TAKA,dj TAKA,160,listed,2026-10-01,DP,A,True,12,1806,,138
 34,History of dj TAKA - single style collection -,dj TAKA,dj TAKA,160,listed,2026-10-01,DP,L,False,,,,138
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,,listed,2026-10-15,SP,B,False,,,,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,,listed,2026-10-15,SP,N,,,,,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,,listed,2026-10-15,SP,H,,,,,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,,listed,2026-10-15,SP,A,True,10,,,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,,listed,2026-10-15,SP,L,False,,,,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,,listed,2026-10-15,DP,N,,,,,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,,listed,2026-10-15,DP,H,,,,,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,,listed,2026-10-15,DP,A,,,,,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,,listed,2026-10-15,DP,L,False,,,,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,B,False,,,,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,N,True,5,441,CN?,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,H,True,8,903,CN?,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,A,True,10,1256,CN?,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,L,False,,,,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,N,True,5,435,CN?,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,H,True,9,931,CN?,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,A,True,11,1275,CN,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,L,False,,,,
 34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,SP,B,False,,,,111
 34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,SP,N,True,5,375,CN,111
 34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,SP,H,True,8,702,CN,111
@@ -323,15 +323,15 @@
 34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,DP,H,True,9,997,CN,117
 34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,DP,A,True,11,1348,CN|MSS,117
 34,夜叉ノ魂,劇団レコード feat.T4K,BATTLE SWORD,170,listed,2026-09-16,DP,L,False,,,,117
-34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,listed,2026-10-15,SP,B,False,,,,
-34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,listed,2026-10-15,SP,N,,,,,
-34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,listed,2026-10-15,SP,H,,,,,
-34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,listed,2026-10-15,SP,A,True,12,,,
-34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,listed,2026-10-15,SP,L,False,,,,
-34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,listed,2026-10-15,DP,N,,,,,
-34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,listed,2026-10-15,DP,H,,,,,
-34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,listed,2026-10-15,DP,A,,,,,
-34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim/Remixed by RoughSketch,Hi-リミックスコア,,listed,2026-10-15,DP,L,False,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim / Remixed by RoughSketch,Hi-リミックスコア,210,listed,2026-10-15,SP,B,False,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim / Remixed by RoughSketch,Hi-リミックスコア,210,listed,2026-10-15,SP,N,True,6,654,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim / Remixed by RoughSketch,Hi-リミックスコア,210,listed,2026-10-15,SP,H,True,10,1260,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim / Remixed by RoughSketch,Hi-リミックスコア,210,listed,2026-10-15,SP,A,True,12,1782,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim / Remixed by RoughSketch,Hi-リミックスコア,210,listed,2026-10-15,SP,L,False,,,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim / Remixed by RoughSketch,Hi-リミックスコア,210,listed,2026-10-15,DP,N,True,6,671,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim / Remixed by RoughSketch,Hi-リミックスコア,210,listed,2026-10-15,DP,H,True,10,1257,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim / Remixed by RoughSketch,Hi-リミックスコア,210,listed,2026-10-15,DP,A,True,12,1806,,
+34,恋する☆宇宙戦争っ!! (恋する★ハードコアRemix),Prim / Remixed by RoughSketch,Hi-リミックスコア,210,listed,2026-10-15,DP,L,False,,,,
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,SP,B,False,,,,120
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,SP,N,True,6,519,,120
 34,悪ジ狂キ,RoughSkreamZ feat. Fra,DJENT/UK INDUSTRIAL/RAP,113,listed,2026-09-16,SP,H,True,9,919,CN,120
@@ -362,11 +362,11 @@
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,B,False,,,,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,N,True,7,627,CN,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,H,True,10,923,CN,125
-34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,A,True,12,,CN?,125
+34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,A,True,12,1501,CN?,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,L,False,,,,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,N,True,7,621,CN,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,H,True,10,934,CN,125
-34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,A,True,12,,CN?,125
+34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,A,True,12,1588,CN?,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,L,False,,,,125
 34,泡沫と月,xi feat. Risa Yuzuki,JAPANESE PIANO ROCK,174,listed,2026-09-16,SP,B,False,,,,125
 34,泡沫と月,xi feat. Risa Yuzuki,JAPANESE PIANO ROCK,174,listed,2026-09-16,SP,N,True,5,503,,125
