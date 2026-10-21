@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-10-15T08:09:33+00:00",
+  "updated_at": "2026-10-21T08:26:14+00:00",
   "song_count": 44,
   "songs": [
     {
@@ -323,9 +323,9 @@
             "level": 12,
             "notes": 1431,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 12",
+            "raw_level": "[CN] 12",
             "raw_notes": "1431"
           },
           "L": {
@@ -989,9 +989,9 @@
             "level": 8,
             "notes": 793,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 8",
+            "raw_level": "[CN] 8",
             "raw_notes": "793"
           },
           "A": {
@@ -1029,9 +1029,9 @@
             "level": 9,
             "notes": 880,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] 9",
             "raw_notes": "880"
           },
           "A": {
@@ -1192,9 +1192,9 @@
             "level": 8,
             "notes": 903,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 8",
+            "raw_level": "[CN] 8",
             "raw_notes": "903"
           },
           "A": {
@@ -1222,9 +1222,9 @@
             "level": 5,
             "notes": 435,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 5",
+            "raw_level": "[CN] 5",
             "raw_notes": "435"
           },
           "H": {
@@ -1232,9 +1232,9 @@
             "level": 9,
             "notes": 931,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] 9",
             "raw_notes": "931"
           },
           "A": {
@@ -4194,9 +4194,9 @@
             "level": 12,
             "notes": 1588,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 12",
+            "raw_level": "[CN] 12",
             "raw_notes": "1588"
           },
           "L": {

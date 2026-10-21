@@ -24,7 +24,7 @@
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,L,False,,,,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,N,True,6,546,CN|BSS,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,H,True,10,1046,CN|BSS,121
-34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,A,True,12,1431,CN?,121
+34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,A,True,12,1431,CN,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,L,False,,,,121
 34,DEADRABBIT!!,Hylen feat.DJ14 (SCRATCHING),DJENTLE ZAAGBREAKSTEP,132,listed,2026-09-16,SP,B,False,,,,117
 34,DEADRABBIT!!,Hylen feat.DJ14 (SCRATCHING),DJENTLE ZAAGBREAKSTEP,132,listed,2026-09-16,SP,N,True,6,535,,117
@@ -82,11 +82,11 @@
 34,GENERATED GRID,Sota Fujimori,TECH CORE,175,listed,2026-09-16,DP,L,False,,,,126
 34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,B,False,,,,
 34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,N,True,6,587,CN,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,H,True,8,793,CN?,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,H,True,8,793,CN,
 34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,A,True,10,1111,CN,
 34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,SP,L,False,,,,
 34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,DP,N,True,6,563,CN?,
-34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,DP,H,True,9,880,CN?,
+34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,DP,H,True,9,880,CN,
 34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,DP,A,True,11,1342,CN|BSS,
 34,GOLD RUSH (all-or-nothing MIX),DJ YOSHITAKA with beatnation,RECKLESS RAVE,162,listed,2026-10-15,DP,L,False,,,,
 34,History of dj TAKA - single style collection -,dj TAKA,dj TAKA,160,listed,2026-10-01,SP,B,False,,,,138
@@ -100,11 +100,11 @@
 34,History of dj TAKA - single style collection -,dj TAKA,dj TAKA,160,listed,2026-10-01,DP,L,False,,,,138
 34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,B,False,,,,
 34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,N,True,5,441,CN?,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,H,True,8,903,CN?,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,H,True,8,903,CN,
 34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,A,True,10,1256,CN?,
 34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,SP,L,False,,,,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,N,True,5,435,CN?,
-34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,H,True,9,931,CN?,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,N,True,5,435,CN,
+34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,H,True,9,931,CN,
 34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,A,True,11,1275,CN,
 34,I'm so Happy (20th Anniv.Mix),Ryu☆,HAPPY HARDCORE,189,listed,2026-10-15,DP,L,False,,,,
 34,Mellow Diary,YUC'e,IVORY BASS,160,listed,2026-09-16,SP,B,False,,,,111
@@ -366,7 +366,7 @@
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,SP,L,False,,,,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,N,True,7,621,CN,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,H,True,10,934,CN,125
-34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,A,True,12,1588,CN?,125
+34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,A,True,12,1588,CN,125
 34,月下散刄,U1 overground,ORBITALIC MOON REQUIEM,160,listed,2026-09-16,DP,L,False,,,,125
 34,泡沫と月,xi feat. Risa Yuzuki,JAPANESE PIANO ROCK,174,listed,2026-09-16,SP,B,False,,,,125
 34,泡沫と月,xi feat. Risa Yuzuki,JAPANESE PIANO ROCK,174,listed,2026-09-16,SP,N,True,5,503,,125
