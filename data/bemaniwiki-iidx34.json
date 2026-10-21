@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-10-21T08:26:14+00:00",
+  "updated_at": "2026-10-21T17:06:26+00:00",
   "song_count": 44,
   "songs": [
     {
@@ -281,9 +281,9 @@
             "level": 12,
             "notes": 1508,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 12",
+            "raw_level": "[CN] 12",
             "raw_notes": "1508"
           },
           "L": {
@@ -1202,9 +1202,9 @@
             "level": 10,
             "notes": 1256,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 10",
+            "raw_level": "[CN] 10",
             "raw_notes": "1256"
           },
           "L": {
@@ -4154,9 +4154,9 @@
             "level": 12,
             "notes": 1501,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 12",
+            "raw_level": "[CN] 12",
             "raw_notes": "1501"
           },
           "L": {
