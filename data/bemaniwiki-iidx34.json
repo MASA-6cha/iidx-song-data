@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-10-21T17:06:26+00:00",
+  "updated_at": "2026-10-23T16:59:39+00:00",
   "song_count": 44,
   "songs": [
     {
@@ -22,7 +22,7 @@
       "availability": "listed",
       "time": "2:04",
       "duration_seconds": 124,
-      "movie": "専用:はるお?",
+      "movie": "専用:はるお",
       "layer": null,
       "charts": {
         "SP": {
@@ -4009,7 +4009,7 @@
       "availability": "listed",
       "time": "1:55",
       "duration_seconds": 115,
-      "movie": "専用:alo?",
+      "movie": "専用:alo",
       "layer": null,
       "charts": {
         "SP": {
@@ -4414,7 +4414,7 @@
       "availability": "listed",
       "time": "1:59",
       "duration_seconds": 119,
-      "movie": "専用:Routes?",
+      "movie": "専用:Routes",
       "layer": null,
       "charts": {
         "SP": {
