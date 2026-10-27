@@ -5,8 +5,8 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-10-23T16:59:39+00:00",
-  "song_count": 44,
+  "updated_at": "2026-10-27T17:55:45+00:00",
+  "song_count": 45,
   "songs": [
     {
       "title": "9-1",
@@ -960,8 +960,8 @@
       "section": "2026/10/15配信",
       "release_date": "2026-10-15",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "1:40",
+      "duration_seconds": 100,
       "movie": "公式MV",
       "layer": null,
       "charts": {
@@ -1163,8 +1163,8 @@
       "section": "2026/10/15配信",
       "release_date": "2026-10-15",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "2:09",
+      "duration_seconds": 129,
       "movie": "公式MV",
       "layer": null,
       "charts": {
@@ -1246,6 +1246,101 @@
             ],
             "raw_level": "[CN] 11",
             "raw_notes": "1275"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "Love Destination",
+      "artist": "ハレトキドキ",
+      "genre": "DIGITAL J-POP2",
+      "bpm": null,
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "MAKIMONO SLASHER",
+      "section": "2026/10/29配信",
+      "release_date": "2026-10-29",
+      "availability": "listed",
+      "time": null,
+      "duration_seconds": null,
+      "movie": null,
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": null,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "",
+            "raw_notes": ""
           },
           "L": {
             "exists": false,
@@ -3702,8 +3797,8 @@
       "section": "2026/10/15配信",
       "release_date": "2026-10-15",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "2:05",
+      "duration_seconds": 125,
       "movie": "公式MV",
       "layer": null,
       "charts": {
