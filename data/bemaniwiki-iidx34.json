@@ -5,8 +5,8 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-10-27T17:55:45+00:00",
-  "song_count": 45,
+  "updated_at": "2026-10-29T09:43:34+00:00",
+  "song_count": 49,
   "songs": [
     {
       "title": "9-1",
@@ -1057,6 +1057,101 @@
       }
     },
     {
+      "title": "HAMSTER",
+      "artist": "DJ RENA",
+      "genre": "JUNGLE, DRUM N BASS",
+      "bpm": "180",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "MAKIMONO SLASHER",
+      "section": "2026/10/29配信",
+      "release_date": "2026-10-29",
+      "availability": "listed",
+      "time": null,
+      "duration_seconds": null,
+      "movie": "専用:Taiyo Yamamoto?",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 579,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": "579"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 878,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "878"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1365,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1365"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": null,
+            "flags": [],
+            "raw_level": "6",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": null,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1363,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1363"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
       "title": "History of dj TAKA - single style collection -",
       "artist": "dj TAKA",
       "genre": "dj TAKA",
@@ -1262,7 +1357,7 @@
       "title": "Love Destination",
       "artist": "ハレトキドキ",
       "genre": "DIGITAL J-POP2",
-      "bpm": null,
+      "bpm": "142",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
@@ -1272,8 +1367,8 @@
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": null,
-      "layer": null,
+      "movie": "7th HOUSE汎用+レイヤー",
+      "layer": "犬味饂飩?",
       "charts": {
         "SP": {
           "B": {
@@ -1285,28 +1380,34 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 4,
+            "notes": 378,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 4",
+            "raw_notes": "378"
           },
           "H": {
-            "exists": null,
-            "level": null,
+            "exists": true,
+            "level": 7,
             "notes": null,
-            "flags": [],
-            "raw_level": "",
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 7",
             "raw_notes": ""
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 9,
+            "notes": 978,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "978"
           },
           "L": {
             "exists": false,
@@ -1319,28 +1420,34 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 4,
+            "notes": 377,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 4",
+            "raw_notes": "377"
           },
           "H": {
-            "exists": null,
-            "level": null,
+            "exists": true,
+            "level": 7,
             "notes": null,
-            "flags": [],
-            "raw_level": "",
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 7",
             "raw_notes": ""
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 9,
+            "notes": 930,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "930"
           },
           "L": {
             "exists": false,
@@ -2482,6 +2589,101 @@
       }
     },
     {
+      "title": "Vairocana",
+      "artist": "五条式改",
+      "genre": "サイバーガガク",
+      "bpm": "145-290",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "MAKIMONO SLASHER",
+      "section": "2026/10/29配信",
+      "release_date": "2026-10-29",
+      "availability": "listed",
+      "time": null,
+      "duration_seconds": null,
+      "movie": "ZINRAI JAPANESQUE汎用",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 449,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "449"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 925,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": "925"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1300,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": "1300"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": null,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": null,
+            "flags": [],
+            "raw_level": "10",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1286,
+            "flags": [],
+            "raw_level": "12",
+            "raw_notes": "1286"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
       "title": "gigadelic (WILD STYLE)",
       "artist": "teranoid",
       "genre": "NUSTYLE GABBA",
@@ -2799,6 +3001,101 @@
             ],
             "raw_level": "[CN] [BSS] 12",
             "raw_notes": "1940"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "えびばでわったいむ",
+      "artist": "まろん feat. ななひら",
+      "genre": "和風歌謡硬核音楽",
+      "bpm": "170",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "MAKIMONO SLASHER",
+      "section": "2026/10/29配信",
+      "release_date": "2026-10-29",
+      "availability": "listed",
+      "time": null,
+      "duration_seconds": null,
+      "movie": "ZINRAI JAPANESQUE汎用+レイヤー",
+      "layer": "HES?",
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": 547,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": "547"
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": 929,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": "929"
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1524,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1524"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 5,
+            "notes": null,
+            "flags": [],
+            "raw_level": "5",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": true,
+            "level": 9,
+            "notes": null,
+            "flags": [],
+            "raw_level": "9",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": true,
+            "level": 11,
+            "notes": 1533,
+            "flags": [],
+            "raw_level": "11",
+            "raw_notes": "1533"
           },
           "L": {
             "exists": false,
@@ -4483,6 +4780,113 @@
             "flags": [],
             "raw_level": "11",
             "raw_notes": "1488"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        }
+      }
+    },
+    {
+      "title": "露照陀仏",
+      "artist": "TAN1CHU",
+      "genre": "REIWA ROTTERDAM TECHNO",
+      "bpm": "200",
+      "series": 34,
+      "series_name": "ZINRAI",
+      "song_id": null,
+      "group": "MAKIMONO SLASHER",
+      "section": "2026/10/29配信",
+      "release_date": "2026-10-29",
+      "availability": "listed",
+      "time": null,
+      "duration_seconds": null,
+      "movie": "専用",
+      "layer": null,
+      "charts": {
+        "SP": {
+          "B": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          },
+          "N": {
+            "exists": true,
+            "level": 6,
+            "notes": 589,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 6",
+            "raw_notes": "589"
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": 1100,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 10",
+            "raw_notes": "1100"
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 2019,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 12",
+            "raw_notes": "2019"
+          },
+          "L": {
+            "exists": false,
+            "level": null,
+            "notes": null,
+            "flags": [],
+            "raw_level": "-",
+            "raw_notes": "-"
+          }
+        },
+        "DP": {
+          "N": {
+            "exists": true,
+            "level": 7,
+            "notes": null,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 7",
+            "raw_notes": ""
+          },
+          "H": {
+            "exists": true,
+            "level": 10,
+            "notes": null,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 10",
+            "raw_notes": ""
+          },
+          "A": {
+            "exists": true,
+            "level": 12,
+            "notes": 1915,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 12",
+            "raw_notes": "1915"
           },
           "L": {
             "exists": false,
