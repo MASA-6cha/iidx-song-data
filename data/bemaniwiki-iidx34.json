@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-10-29T09:43:34+00:00",
+  "updated_at": "2026-10-29T18:25:19+00:00",
   "song_count": 49,
   "songs": [
     {
@@ -1065,7 +1065,7 @@
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "MAKIMONO SLASHER",
-      "section": "2026/10/29配信",
+      "section": "PHASE1(2026/10/29配信)",
       "release_date": "2026-10-29",
       "availability": "listed",
       "time": null,
@@ -1362,7 +1362,7 @@
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "MAKIMONO SLASHER",
-      "section": "2026/10/29配信",
+      "section": "PHASE1(2026/10/29配信)",
       "release_date": "2026-10-29",
       "availability": "listed",
       "time": null,
@@ -1384,9 +1384,9 @@
             "level": 4,
             "notes": 378,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 4",
+            "raw_level": "[CN] 4",
             "raw_notes": "378"
           },
           "H": {
@@ -1404,9 +1404,9 @@
             "level": 9,
             "notes": 978,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] 9",
             "raw_notes": "978"
           },
           "L": {
@@ -1444,9 +1444,9 @@
             "level": 9,
             "notes": 930,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 9",
+            "raw_level": "[CN] 9",
             "raw_notes": "930"
           },
           "L": {
@@ -2597,11 +2597,11 @@
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "MAKIMONO SLASHER",
-      "section": "2026/10/29配信",
+      "section": "PHASE1(2026/10/29配信)",
       "release_date": "2026-10-29",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "1:56",
+      "duration_seconds": 116,
       "movie": "ZINRAI JAPANESQUE汎用",
       "layer": null,
       "charts": {
@@ -3022,7 +3022,7 @@
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "MAKIMONO SLASHER",
-      "section": "2026/10/29配信",
+      "section": "PHASE1(2026/10/29配信)",
       "release_date": "2026-10-29",
       "availability": "listed",
       "time": null,
@@ -3051,16 +3051,20 @@
             "exists": true,
             "level": 9,
             "notes": 929,
-            "flags": [],
-            "raw_level": "9",
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
             "raw_notes": "929"
           },
           "A": {
             "exists": true,
             "level": 11,
             "notes": 1524,
-            "flags": [],
-            "raw_level": "11",
+            "flags": [
+              "BSS"
+            ],
+            "raw_level": "[BSS] 11",
             "raw_notes": "1524"
           },
           "L": {
@@ -3085,16 +3089,20 @@
             "exists": true,
             "level": 9,
             "notes": null,
-            "flags": [],
-            "raw_level": "9",
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
             "raw_notes": ""
           },
           "A": {
             "exists": true,
             "level": 11,
             "notes": 1533,
-            "flags": [],
-            "raw_level": "11",
+            "flags": [
+              "BSS"
+            ],
+            "raw_level": "[BSS] 11",
             "raw_notes": "1533"
           },
           "L": {
@@ -4801,12 +4809,12 @@
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "MAKIMONO SLASHER",
-      "section": "2026/10/29配信",
+      "section": "PHASE1(2026/10/29配信)",
       "release_date": "2026-10-29",
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": "専用",
+      "movie": "専用:はるお?",
       "layer": null,
       "charts": {
         "SP": {
@@ -4823,9 +4831,10 @@
             "level": 6,
             "notes": 589,
             "flags": [
-              "CN?"
+              "CN",
+              "BSS"
             ],
-            "raw_level": "[CN?] 6",
+            "raw_level": "[CN] [BSS] 6",
             "raw_notes": "589"
           },
           "H": {
@@ -4833,9 +4842,9 @@
             "level": 10,
             "notes": 1100,
             "flags": [
-              "CN?"
+              "BSS"
             ],
-            "raw_level": "[CN?] 10",
+            "raw_level": "[BSS] 10",
             "raw_notes": "1100"
           },
           "A": {
@@ -4843,9 +4852,10 @@
             "level": 12,
             "notes": 2019,
             "flags": [
-              "CN?"
+              "CN",
+              "BSS"
             ],
-            "raw_level": "[CN?] 12",
+            "raw_level": "[CN] [BSS] 12",
             "raw_notes": "2019"
           },
           "L": {
@@ -4883,9 +4893,10 @@
             "level": 12,
             "notes": 1915,
             "flags": [
-              "CN?"
+              "CN",
+              "BSS"
             ],
-            "raw_level": "[CN?] 12",
+            "raw_level": "[CN] [BSS] 12",
             "raw_notes": "1915"
           },
           "L": {
