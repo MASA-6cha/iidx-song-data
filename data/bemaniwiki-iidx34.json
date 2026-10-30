@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-10-29T18:25:19+00:00",
+  "updated_at": "2026-10-30T09:49:52+00:00",
   "song_count": 49,
   "songs": [
     {
@@ -1119,18 +1119,18 @@
           "N": {
             "exists": true,
             "level": 6,
-            "notes": null,
+            "notes": 585,
             "flags": [],
             "raw_level": "6",
-            "raw_notes": ""
+            "raw_notes": "585"
           },
           "H": {
             "exists": true,
             "level": 9,
-            "notes": null,
+            "notes": 836,
             "flags": [],
             "raw_level": "9",
-            "raw_notes": ""
+            "raw_notes": "836"
           },
           "A": {
             "exists": true,
@@ -1424,20 +1424,20 @@
             "level": 4,
             "notes": 377,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 4",
+            "raw_level": "[CN] 4",
             "raw_notes": "377"
           },
           "H": {
             "exists": true,
             "level": 7,
-            "notes": null,
+            "notes": 660,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 7",
-            "raw_notes": ""
+            "raw_level": "[CN] 7",
+            "raw_notes": "660"
           },
           "A": {
             "exists": true,
@@ -2651,10 +2651,10 @@
           "N": {
             "exists": true,
             "level": 5,
-            "notes": null,
+            "notes": 472,
             "flags": [],
             "raw_level": "5",
-            "raw_notes": ""
+            "raw_notes": "472"
           },
           "H": {
             "exists": true,
@@ -3051,10 +3051,8 @@
             "exists": true,
             "level": 9,
             "notes": 929,
-            "flags": [
-              "CN?"
-            ],
-            "raw_level": "[CN?] 9",
+            "flags": [],
+            "raw_level": "9",
             "raw_notes": "929"
           },
           "A": {
@@ -3080,19 +3078,17 @@
           "N": {
             "exists": true,
             "level": 5,
-            "notes": null,
+            "notes": 590,
             "flags": [],
             "raw_level": "5",
-            "raw_notes": ""
+            "raw_notes": "590"
           },
           "H": {
             "exists": true,
             "level": 9,
             "notes": null,
-            "flags": [
-              "CN?"
-            ],
-            "raw_level": "[CN?] 9",
+            "flags": [],
+            "raw_level": "9",
             "raw_notes": ""
           },
           "A": {
