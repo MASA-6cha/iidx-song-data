@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-11-02T10:50:12+00:00",
+  "updated_at": "2026-11-02T21:40:29+00:00",
   "song_count": 49,
   "songs": [
     {
@@ -1068,8 +1068,8 @@
       "section": "PHASE1(2026/10/29配信)",
       "release_date": "2026-10-29",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "2:06",
+      "duration_seconds": 126,
       "movie": "専用:Taiyo Yamamoto?",
       "layer": null,
       "charts": {
@@ -1365,8 +1365,8 @@
       "section": "PHASE1(2026/10/29配信)",
       "release_date": "2026-10-29",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "2:02",
+      "duration_seconds": 122,
       "movie": "7th HOUSE汎用+レイヤー",
       "layer": "犬味饂飩?",
       "charts": {
@@ -3025,8 +3025,8 @@
       "section": "PHASE1(2026/10/29配信)",
       "release_date": "2026-10-29",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "2:03",
+      "duration_seconds": 123,
       "movie": "ZINRAI JAPANESQUE汎用+レイヤー",
       "layer": "HES?",
       "charts": {
@@ -4808,8 +4808,8 @@
       "section": "PHASE1(2026/10/29配信)",
       "release_date": "2026-10-29",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "1:59",
+      "duration_seconds": 119,
       "movie": "専用:はるお?",
       "layer": null,
       "charts": {
