@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-11-05T10:38:56+00:00",
+  "updated_at": "2026-11-06T10:39:34+00:00",
   "song_count": 50,
   "songs": [
     {
@@ -1474,7 +1474,7 @@
       "availability": "listed",
       "time": "1:51",
       "duration_seconds": 111,
-      "movie": "専用:NAGI?",
+      "movie": "専用:C4N!",
       "layer": null,
       "charts": {
         "SP": {
@@ -1895,7 +1895,7 @@
       "availability": "listed",
       "time": "2:01",
       "duration_seconds": 121,
-      "movie": "専用:壱?",
+      "movie": "専用:アユタ",
       "layer": null,
       "charts": {
         "SP": {
@@ -2003,7 +2003,7 @@
       "availability": "listed",
       "time": "2:08",
       "duration_seconds": 128,
-      "movie": "専用:KING?",
+      "movie": "専用:KING",
       "layer": null,
       "charts": {
         "SP": {
@@ -2629,9 +2629,9 @@
             "level": 8,
             "notes": 739,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 8",
+            "raw_level": "[CN] 8",
             "raw_notes": "739"
           },
           "A": {
@@ -2659,9 +2659,9 @@
             "level": 4,
             "notes": 420,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 4",
+            "raw_level": "[CN] 4",
             "raw_notes": "420"
           },
           "H": {
@@ -2669,9 +2669,9 @@
             "level": 8,
             "notes": 785,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 8",
+            "raw_level": "[CN] 8",
             "raw_notes": "785"
           },
           "A": {
