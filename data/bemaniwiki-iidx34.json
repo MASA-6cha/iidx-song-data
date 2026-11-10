@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-11-07T09:51:20+00:00",
+  "updated_at": "2026-11-10T10:56:07+00:00",
   "song_count": 50,
   "songs": [
     {
@@ -2600,8 +2600,8 @@
       "section": "猫叉Master TOURISM(2026/11/05配信)",
       "release_date": "2026-11-05",
       "availability": "listed",
-      "time": null,
-      "duration_seconds": null,
+      "time": "2:04",
+      "duration_seconds": 124,
       "movie": "HEROIC VERSE GOTHIC汎用",
       "layer": null,
       "charts": {
@@ -4974,12 +4974,12 @@
           "N": {
             "exists": true,
             "level": 7,
-            "notes": null,
+            "notes": 718,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 7",
-            "raw_notes": ""
+            "raw_level": "[CN] 7",
+            "raw_notes": "718"
           },
           "H": {
             "exists": true,
