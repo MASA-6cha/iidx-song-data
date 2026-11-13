@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-11-10T10:56:07+00:00",
+  "updated_at": "2026-11-13T10:46:51+00:00",
   "song_count": 50,
   "songs": [
     {
@@ -543,7 +543,7 @@
       "availability": "listed",
       "time": "2:00",
       "duration_seconds": 120,
-      "movie": "専用:maysea?",
+      "movie": "専用:MIRAI",
       "layer": null,
       "charts": {
         "SP": {
@@ -1783,7 +1783,7 @@
       "availability": "listed",
       "time": "2:00",
       "duration_seconds": 120,
-      "movie": "専用:Minako Endo?",
+      "movie": "専用:Minako Endo",
       "layer": null,
       "charts": {
         "SP": {
@@ -2408,7 +2408,7 @@
       "availability": "listed",
       "time": "2:02",
       "duration_seconds": 122,
-      "movie": "専用:Routes?",
+      "movie": "専用:Routes",
       "layer": null,
       "charts": {
         "SP": {
