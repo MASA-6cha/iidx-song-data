@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-11-25T21:36:33+00:00",
+  "updated_at": "2026-11-26T12:08:31+00:00",
   "song_count": 58,
   "songs": [
     {
@@ -120,18 +120,18 @@
     {
       "title": "After the Storm",
       "artist": "あまみ×ひなみ",
-      "genre": "",
-      "bpm": null,
+      "genre": "SAILING POP ROCK",
+      "bpm": "190",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "WORLD TOURISM",
-      "section": "BPL TEAM TOURISM 1-7(2026/11/26配信)",
+      "section": "BPL TEAM TOURISM(2026/11/26配信)",
       "release_date": "2026-11-26",
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": null,
+      "movie": "copula TRANSPORT汎用",
       "layer": null,
       "charts": {
         "SP": {
@@ -144,28 +144,28 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 5,
+            "notes": 612,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "5",
+            "raw_notes": "612"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 8,
+            "notes": 1024,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "8",
+            "raw_notes": "1024"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 10,
+            "notes": 1600,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "10",
+            "raw_notes": "1600"
           },
           "L": {
             "exists": false,
@@ -178,28 +178,28 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 5,
+            "notes": 611,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "5",
+            "raw_notes": "611"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 8,
+            "notes": 1051,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "8",
+            "raw_notes": "1051"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 10,
+            "notes": 1587,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "10",
+            "raw_notes": "1587"
           },
           "L": {
             "exists": false,
@@ -326,18 +326,18 @@
     {
       "title": "Beyond Illusion",
       "artist": "Kaname",
-      "genre": "",
-      "bpm": null,
+      "genre": "HAT CORE",
+      "bpm": "200",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "WORLD TOURISM",
-      "section": "BPL TEAM TOURISM 1-7(2026/11/26配信)",
+      "section": "BPL TEAM TOURISM(2026/11/26配信)",
       "release_date": "2026-11-26",
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": null,
+      "movie": "SPADA HARDCORE汎用",
       "layer": null,
       "charts": {
         "SP": {
@@ -350,28 +350,35 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 7,
+            "notes": 767,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 7",
+            "raw_notes": "767"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 10,
+            "notes": 1322,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 10",
+            "raw_notes": "1322"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 12,
+            "notes": 1921,
+            "flags": [
+              "CN",
+              "BSS"
+            ],
+            "raw_level": "[CN] [BSS] 12",
+            "raw_notes": "1921"
           },
           "L": {
             "exists": false,
@@ -384,28 +391,34 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 7,
+            "notes": 764,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 7",
+            "raw_notes": "764"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 10,
+            "notes": 1318,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 10",
+            "raw_notes": "1318"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 12,
+            "notes": 1864,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 12",
+            "raw_notes": "1864"
           },
           "L": {
             "exists": false,
@@ -421,18 +434,18 @@
     {
       "title": "BlueNova",
       "artist": "EmoCosine + DJ Genki",
-      "genre": "",
-      "bpm": null,
+      "genre": "ANTHEM",
+      "bpm": "185",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "WORLD TOURISM",
-      "section": "BPL TEAM TOURISM 1-7(2026/11/26配信)",
+      "section": "BPL TEAM TOURISM(2026/11/26配信)",
       "release_date": "2026-11-26",
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": null,
+      "movie": "Lincle POPS汎用",
       "layer": null,
       "charts": {
         "SP": {
@@ -445,28 +458,34 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 5,
+            "notes": 678,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 5",
+            "raw_notes": "678"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 9,
+            "notes": 1109,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "1109"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 11,
+            "notes": 1727,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1727"
           },
           "L": {
             "exists": false,
@@ -479,28 +498,34 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 5,
+            "notes": 678,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 5",
+            "raw_notes": "678"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 9,
+            "notes": 1107,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "1107"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 11,
+            "notes": 1732,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 11",
+            "raw_notes": "1732"
           },
           "L": {
             "exists": false,
@@ -627,18 +652,18 @@
     {
       "title": "Cosmic ERA",
       "artist": "Alkome",
-      "genre": "",
-      "bpm": null,
+      "genre": "UK HARDCORE",
+      "bpm": "170",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "WORLD TOURISM",
-      "section": "BPL TEAM TOURISM 1-7(2026/11/26配信)",
+      "section": "BPL TEAM TOURISM(2026/11/26配信)",
       "release_date": "2026-11-26",
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": null,
+      "movie": "CastHour CYBER汎用",
       "layer": null,
       "charts": {
         "SP": {
@@ -651,28 +676,34 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 6,
+            "notes": 695,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 6",
+            "raw_notes": "695"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 10,
+            "notes": 1356,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 10",
+            "raw_notes": "1356"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 12,
+            "notes": 1832,
+            "flags": [
+              "BSS"
+            ],
+            "raw_level": "[BSS] 12",
+            "raw_notes": "1832"
           },
           "L": {
             "exists": false,
@@ -685,28 +716,34 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 6,
+            "notes": 684,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 6",
+            "raw_notes": "684"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 10,
+            "notes": 1338,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 10",
+            "raw_notes": "1338"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 12,
+            "notes": 1866,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 12",
+            "raw_notes": "1866"
           },
           "L": {
             "exists": false,
@@ -1236,18 +1273,18 @@
     {
       "title": "FØURGE CROWN",
       "artist": "xi",
-      "genre": "",
-      "bpm": null,
+      "genre": "HARD RENASSIANCE",
+      "bpm": "185",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "WORLD TOURISM",
-      "section": "BPL TEAM TOURISM 1-7(2026/11/26配信)",
+      "section": "BPL TEAM TOURISM(2026/11/26配信)",
       "release_date": "2026-11-26",
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": null,
+      "movie": "HEROIC VERSE POPS汎用",
       "layer": null,
       "charts": {
         "SP": {
@@ -1260,28 +1297,34 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 5,
+            "notes": 661,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 5",
+            "raw_notes": "661"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 9,
+            "notes": 1210,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "1210"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 11,
+            "notes": 1748,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 11",
+            "raw_notes": "1748"
           },
           "L": {
             "exists": false,
@@ -1294,28 +1337,34 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 5,
+            "notes": 665,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 5",
+            "raw_notes": "665"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 9,
+            "notes": 1229,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 9",
+            "raw_notes": "1229"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 11,
+            "notes": 1771,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 11",
+            "raw_notes": "1771"
           },
           "L": {
             "exists": false,
@@ -1534,18 +1583,18 @@
     {
       "title": "Gluttony",
       "artist": "幸幸幸",
-      "genre": "",
-      "bpm": null,
+      "genre": "HARDCORE, DRUM'N'BASS",
+      "bpm": "190",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "WORLD TOURISM",
-      "section": "BPL TEAM TOURISM 1-7(2026/11/26配信)",
+      "section": "BPL TEAM TOURISM(2026/11/26配信)",
       "release_date": "2026-11-26",
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": null,
+      "movie": "BISTROVER METAL汎用",
       "layer": null,
       "charts": {
         "SP": {
@@ -1558,28 +1607,28 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 5,
+            "notes": 543,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "5",
+            "raw_notes": "543"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 8,
+            "notes": 960,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "8",
+            "raw_notes": "960"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 10,
+            "notes": 1379,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "10",
+            "raw_notes": "1379"
           },
           "L": {
             "exists": false,
@@ -1592,28 +1641,28 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 5,
+            "notes": 548,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "5",
+            "raw_notes": "548"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 8,
+            "notes": 950,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "8",
+            "raw_notes": "950"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 10,
+            "notes": 1364,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "10",
+            "raw_notes": "1364"
           },
           "L": {
             "exists": false,
@@ -3363,18 +3412,18 @@
     {
       "title": "WiTH",
       "artist": "Juggernaut. + しーけー",
-      "genre": "",
-      "bpm": null,
+      "genre": "GGWP",
+      "bpm": "234",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
       "group": "WORLD TOURISM",
-      "section": "BPL TEAM TOURISM 1-7(2026/11/26配信)",
+      "section": "BPL TEAM TOURISM(2026/11/26配信)",
       "release_date": "2026-11-26",
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": null,
+      "movie": "Sparkle Shower POPS汎用",
       "layer": null,
       "charts": {
         "SP": {
@@ -3387,28 +3436,34 @@
             "raw_notes": "-"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 6,
+            "notes": 600,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 6",
+            "raw_notes": "600"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 10,
+            "notes": 1160,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 10",
+            "raw_notes": "1160"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 12,
+            "notes": 1757,
+            "flags": [
+              "CN"
+            ],
+            "raw_level": "[CN] 12",
+            "raw_notes": "1757"
           },
           "L": {
             "exists": false,
@@ -3421,28 +3476,34 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 6,
+            "notes": 612,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 6",
+            "raw_notes": "612"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 10,
+            "notes": 1170,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 10",
+            "raw_notes": "1170"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
-            "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "exists": true,
+            "level": 12,
+            "notes": 1719,
+            "flags": [
+              "CN?"
+            ],
+            "raw_level": "[CN?] 12",
+            "raw_notes": "1719"
           },
           "L": {
             "exists": false,
@@ -3458,8 +3519,8 @@
     {
       "title": "Wide Awake",
       "artist": "The 4th feat.TORIENA",
-      "genre": "",
-      "bpm": null,
+      "genre": "HYPER THEME SONG",
+      "bpm": "175",
       "series": 34,
       "series_name": "ZINRAI",
       "song_id": null,
@@ -3469,41 +3530,41 @@
       "availability": "listed",
       "time": null,
       "duration_seconds": null,
-      "movie": null,
+      "movie": "CANNON BALLERS RACING汎用",
       "layer": null,
       "charts": {
         "SP": {
           "B": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 2,
+            "notes": 210,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "2",
+            "raw_notes": "210"
           },
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 4,
+            "notes": 412,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "4",
+            "raw_notes": "412"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 8,
+            "notes": 835,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "8",
+            "raw_notes": "835"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 10,
+            "notes": 1183,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "10",
+            "raw_notes": "1183"
           },
           "L": {
             "exists": false,
@@ -3516,28 +3577,28 @@
         },
         "DP": {
           "N": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 4,
+            "notes": 476,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "4",
+            "raw_notes": "476"
           },
           "H": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 8,
+            "notes": 825,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "8",
+            "raw_notes": "825"
           },
           "A": {
-            "exists": null,
-            "level": null,
-            "notes": null,
+            "exists": true,
+            "level": 10,
+            "notes": 1186,
             "flags": [],
-            "raw_level": "",
-            "raw_notes": ""
+            "raw_level": "10",
+            "raw_notes": "1186"
           },
           "L": {
             "exists": false,
