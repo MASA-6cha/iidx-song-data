@@ -5,7 +5,7 @@
     "url": "https://bemaniwiki.com/index.php?cmd=read&page=beatmania%20IIDX%2034%20ZINRAI%2F%E6%96%B0%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88",
     "page": "beatmania IIDX 34 ZINRAI/新曲リスト"
   },
-  "updated_at": "2026-11-26T12:08:31+00:00",
+  "updated_at": "2026-11-27T21:07:30+00:00",
   "song_count": 58,
   "songs": [
     {
@@ -354,9 +354,9 @@
             "level": 7,
             "notes": 767,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 7",
+            "raw_level": "[CN] 7",
             "raw_notes": "767"
           },
           "H": {
@@ -415,9 +415,10 @@
             "level": 12,
             "notes": 1864,
             "flags": [
-              "CN?"
+              "CN",
+              "BSS"
             ],
-            "raw_level": "[CN?] 12",
+            "raw_level": "[CN] [BSS] 12",
             "raw_notes": "1864"
           },
           "L": {
@@ -462,9 +463,9 @@
             "level": 5,
             "notes": 678,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 5",
+            "raw_level": "[CN] 5",
             "raw_notes": "678"
           },
           "H": {
@@ -522,9 +523,9 @@
             "level": 11,
             "notes": 1732,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 11",
+            "raw_level": "[CN] 11",
             "raw_notes": "1732"
           },
           "L": {
@@ -679,10 +680,8 @@
             "exists": true,
             "level": 6,
             "notes": 695,
-            "flags": [
-              "CN?"
-            ],
-            "raw_level": "[CN?] 6",
+            "flags": [],
+            "raw_level": "6",
             "raw_notes": "695"
           },
           "H": {
@@ -719,30 +718,24 @@
             "exists": true,
             "level": 6,
             "notes": 684,
-            "flags": [
-              "CN?"
-            ],
-            "raw_level": "[CN?] 6",
+            "flags": [],
+            "raw_level": "6",
             "raw_notes": "684"
           },
           "H": {
             "exists": true,
             "level": 10,
             "notes": 1338,
-            "flags": [
-              "CN?"
-            ],
-            "raw_level": "[CN?] 10",
+            "flags": [],
+            "raw_level": "10",
             "raw_notes": "1338"
           },
           "A": {
             "exists": true,
             "level": 12,
             "notes": 1866,
-            "flags": [
-              "CN?"
-            ],
-            "raw_level": "[CN?] 12",
+            "flags": [],
+            "raw_level": "12",
             "raw_notes": "1866"
           },
           "L": {
@@ -1301,9 +1294,9 @@
             "level": 5,
             "notes": 661,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 5",
+            "raw_level": "[CN] 5",
             "raw_notes": "661"
           },
           "H": {
@@ -1361,9 +1354,9 @@
             "level": 11,
             "notes": 1771,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 11",
+            "raw_level": "[CN] 11",
             "raw_notes": "1771"
           },
           "L": {
@@ -3440,9 +3433,9 @@
             "level": 6,
             "notes": 600,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 6",
+            "raw_level": "[CN] 6",
             "raw_notes": "600"
           },
           "H": {
@@ -3500,9 +3493,9 @@
             "level": 12,
             "notes": 1719,
             "flags": [
-              "CN?"
+              "CN"
             ],
-            "raw_level": "[CN?] 12",
+            "raw_level": "[CN] 12",
             "raw_notes": "1719"
           },
           "L": {

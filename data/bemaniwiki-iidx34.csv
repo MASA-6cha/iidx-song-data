@@ -27,22 +27,22 @@
 34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,DP,A,True,11,1384,CN|BSS,126
 34,BENiZAKURA,BlackY,ENERGETIC JAPANESQUE,172,listed,2026-09-16,DP,L,False,,,,126
 34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,SP,B,False,,,,
-34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,SP,N,True,7,767,CN?,
+34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,SP,N,True,7,767,CN,
 34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,SP,H,True,10,1322,CN?,
 34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,SP,A,True,12,1921,CN|BSS,
 34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,SP,L,False,,,,
 34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,DP,N,True,7,764,CN?,
 34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,DP,H,True,10,1318,CN?,
-34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,DP,A,True,12,1864,CN?,
+34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,DP,A,True,12,1864,CN|BSS,
 34,Beyond Illusion,Kaname,HAT CORE,200,listed,2026-11-26,DP,L,False,,,,
 34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,SP,B,False,,,,
-34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,SP,N,True,5,678,CN?,
+34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,SP,N,True,5,678,CN,
 34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,SP,H,True,9,1109,CN?,
 34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,SP,A,True,11,1727,CN,
 34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,SP,L,False,,,,
 34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,DP,N,True,5,678,CN?,
 34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,DP,H,True,9,1107,CN?,
-34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,DP,A,True,11,1732,CN?,
+34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,DP,A,True,11,1732,CN,
 34,BlueNova,EmoCosine + DJ Genki,ANTHEM,185,listed,2026-11-26,DP,L,False,,,,
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,B,False,,,,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,SP,N,True,6,538,CN|BSS,121
@@ -54,13 +54,13 @@
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,A,True,12,1431,CN,121
 34,Citroforte,REMO-CON,HYPERTRANCE,175,listed,2026-09-16,DP,L,False,,,,121
 34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,SP,B,False,,,,
-34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,SP,N,True,6,695,CN?,
+34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,SP,N,True,6,695,,
 34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,SP,H,True,10,1356,CN?,
 34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,SP,A,True,12,1832,BSS,
 34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,SP,L,False,,,,
-34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,DP,N,True,6,684,CN?,
-34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,DP,H,True,10,1338,CN?,
-34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,DP,A,True,12,1866,CN?,
+34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,DP,N,True,6,684,,
+34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,DP,H,True,10,1338,,
+34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,DP,A,True,12,1866,,
 34,Cosmic ERA,Alkome,UK HARDCORE,170,listed,2026-11-26,DP,L,False,,,,
 34,DEADRABBIT!!,Hylen feat. DJ 14 (SCRATCHING),DJENTLE ZAAGBREAKSTEP,132,listed,2026-09-16,SP,B,False,,,,117
 34,DEADRABBIT!!,Hylen feat. DJ 14 (SCRATCHING),DJENTLE ZAAGBREAKSTEP,132,listed,2026-09-16,SP,N,True,6,535,,117
@@ -108,13 +108,13 @@
 34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,A,True,10,1162,CN,131
 34,Fly Above -20th Anniversary Mix-,Sota Fujimori,DREAM TRANCE,150,listed,2026-10-08,DP,L,False,,,,131
 34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,SP,B,False,,,,
-34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,SP,N,True,5,661,CN?,
+34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,SP,N,True,5,661,CN,
 34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,SP,H,True,9,1210,CN?,
 34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,SP,A,True,11,1748,CN,
 34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,SP,L,False,,,,
 34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,DP,N,True,5,665,CN?,
 34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,DP,H,True,9,1229,CN?,
-34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,DP,A,True,11,1771,CN?,
+34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,DP,A,True,11,1771,CN,
 34,FØURGE CROWN,xi,HARD RENASSIANCE,185,listed,2026-11-26,DP,L,False,,,,
 34,GENERATED GRID,Sota Fujimori,TECH CORE,175,listed,2026-09-16,SP,B,False,,,,126
 34,GENERATED GRID,Sota Fujimori,TECH CORE,175,listed,2026-09-16,SP,N,True,5,563,,126
@@ -297,13 +297,13 @@
 34,Vairocana,五条式改,サイバーガガク,145-290,listed,2026-10-29,DP,A,True,12,1286,,116
 34,Vairocana,五条式改,サイバーガガク,145-290,listed,2026-10-29,DP,L,False,,,,116
 34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,SP,B,False,,,,
-34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,SP,N,True,6,600,CN?,
+34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,SP,N,True,6,600,CN,
 34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,SP,H,True,10,1160,CN?,
 34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,SP,A,True,12,1757,CN,
 34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,SP,L,False,,,,
 34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,DP,N,True,6,612,CN?,
 34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,DP,H,True,10,1170,CN?,
-34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,DP,A,True,12,1719,CN?,
+34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,DP,A,True,12,1719,CN,
 34,WiTH,Juggernaut. + しーけー,GGWP,234,listed,2026-11-26,DP,L,False,,,,
 34,Wide Awake,The 4th feat.TORIENA,HYPER THEME SONG,175,listed,2026-11-26,SP,B,True,2,210,,
 34,Wide Awake,The 4th feat.TORIENA,HYPER THEME SONG,175,listed,2026-11-26,SP,N,True,4,412,,
